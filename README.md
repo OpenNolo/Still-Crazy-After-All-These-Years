@@ -1,0 +1,2 @@
+# Still-Crazy-After-All-These-Years
+Data visualization web application that fits well on huge screens (Presented on a 8196 x 2188 touch screen). The app shows the distribution of the population around the world and in the US states. Demographic data about the states can be aggregated in range of ages and easly compared among the states. Finally the user can choose an event in the history and see which percentage of the actual population was conscious (at least 12) during that event.
