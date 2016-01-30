@@ -1,0 +1,211 @@
+html {
+ width: 100%;
+ height: 100%;
+ margin: 0px;
+ padding: 0px;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+#main {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+}
+
+div {
+}
+
+#lefttoolbox {
+  width: 25%;
+  height: 100%;
+  background-color: rgb(153,216,201);
+}
+
+#mapbox {
+  width: 100%;
+  height: 80%;
+  background-color: rgb(153,216,201);
+}
+
+
+path.feature {
+  fill:none;
+  stroke:black;
+  stroke-width:2px;
+}
+
+#granularitytoolbox {
+  width: 100%;
+  height: 10%;
+  background-color: rgb(153,216,201);
+}
+
+.granularityButton {
+  width: 30%;
+  height: 100%;
+}
+
+.granularityButton.down {
+  background-color: rgb(153,216,201);
+}
+
+.granularityButton.up {
+  background-color: rgb(153,216,201);
+}
+
+.granularityText {
+  width: 40%;
+  height: 100%;
+}
+
+#maptoolbox {
+  width: 100%;
+  height: 10%;
+  background-color: rgb(153,216,201);
+}
+
+.button.usmap {
+  width: 30%;
+  height: 100%;
+  background-color: rgb(153,216,201);
+}
+
+.button.worldmap {
+  width: 30%;
+  height: 100%;
+  background-color: rgb(153,216,201);
+}
+
+.switchbutton {
+  width: 40%;
+  height: 100%;
+}
+
+#graphbox {
+  width: 60%;
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  background-color: rgb(153,216,201);
+}
+
+.column {
+  width: 0%;
+  height: 100%;
+  background-color: yellow;
+}
+
+.columnTitlebox {
+  width: 100%;
+  height: 10%;
+  color: blue;
+  text-align: center;
+}
+
+.barchart {
+  width: 100%;
+  height: 40%;
+}
+
+.piechart {
+  width: 100%;
+  height: 40%;
+}
+
+.columnToolbox {
+  width: 100%;
+  height: 10%;
+  background-color: rgb(186,228,188);
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 20%;
+  opacity: 0.7;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.axis {
+  font-family: arial;
+  font-size:0.6em;
+}
+path.domain {
+  fill:none;
+  stroke:black;
+  stroke-width:2px;
+}
+.tick {
+  fill:none;
+  stroke:black;
+}
+
+.piechartButtonPath {
+  fill: rgb(44,162,95);
+  stroke-width: 5;
+  stroke: rgb(186,228,188);
+}
+
+#rigthtoolbox {
+  width: 15%;
+  height: 100%;
+  background-color: rgb(153,216,201);
+}
+
+#eventbox {
+  width: 100%;
+  height: 70%;
+  background-color: rgb(153,216,201);
+}
+
+#comparebox {
+  width: 100%;
+  height: 30%;
+  background-color: rgb(153,216,201);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.percentagebuttondiv {
+  width: 40%;
+  height: 40%;
+
+  background-color: rgb(186,228,188);
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 10%;
+  opacity: 0.7;
+}
+
+.comparebuttondiv {
+  width: 40%;
+  height: 40%;
+
+  background-color: rgb(186,228,188);
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 10%;
+  opacity: 0.7;
+}
+
+
+.percentagebutton {
+ width: 100%;
+ height: 100%;
+}
+
+.comparebutton {
+  width: 100%;
+  height: 100%;
+}

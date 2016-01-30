@@ -1,0 +1,4525 @@
+"mydata.NAME","mydata.AGE","mydata.POPEST2014_CIV"
+"United States",0,3948350
+"United States",1,3962123
+"United States",2,3957772
+"United States",3,4005190
+"United States",4,4003448
+"United States",5,4004858
+"United States",6,4134352
+"United States",7,4154000
+"United States",8,4119524
+"United States",9,4106832
+"United States",10,4115254
+"United States",11,4085636
+"United States",12,4068790
+"United States",13,4169346
+"United States",14,4232480
+"United States",15,4163723
+"United States",16,4167234
+"United States",17,4184077
+"United States",18,4209973
+"United States",19,4274100
+"United States",20,4353919
+"United States",21,4418106
+"United States",22,4537358
+"United States",23,4625145
+"United States",24,4622549
+"United States",25,4445674
+"United States",26,4345824
+"United States",27,4276071
+"United States",28,4298220
+"United States",29,4337242
+"United States",30,4204555
+"United States",31,4274545
+"United States",32,4279181
+"United States",33,4238291
+"United States",34,4327332
+"United States",35,4060723
+"United States",36,3983377
+"United States",37,3944638
+"United States",38,3831675
+"United States",39,3954384
+"United States",40,3834416
+"United States",41,3896141
+"United States",42,4076296
+"United States",43,4313988
+"United States",44,4373174
+"United States",45,4148659
+"United States",46,4065488
+"United States",47,4072981
+"United States",48,4151130
+"United States",49,4402564
+"United States",50,4486171
+"United States",51,4484514
+"United States",52,4477147
+"United States",53,4533392
+"United States",54,4572917
+"United States",55,4420322
+"United States",56,4394523
+"United States",57,4346438
+"United States",58,4191151
+"United States",59,4155005
+"United States",60,3985150
+"United States",61,3834276
+"United States",62,3685772
+"United States",63,3572353
+"United States",64,3488075
+"United States",65,3384449
+"United States",66,3347776
+"United States",67,3485502
+"United States",68,2572527
+"United States",69,2535012
+"United States",70,2466485
+"United States",71,2519748
+"United States",72,2194234
+"United States",73,2002191
+"United States",74,1890366
+"United States",75,1774697
+"United States",76,1694648
+"United States",77,1557239
+"United States",78,1481505
+"United States",79,1414235
+"United States",80,1264072
+"United States",81,1216009
+"United States",82,1153634
+"United States",83,1090465
+"United States",84,1036186
+"United States",85,6162231
+"United States",999,317631125
+"Alabama",0,57854
+"Alabama",1,58028
+"Alabama",2,58953
+"Alabama",3,59449
+"Alabama",4,60421
+"Alabama",5,60219
+"Alabama",6,62116
+"Alabama",7,62265
+"Alabama",8,61528
+"Alabama",9,60922
+"Alabama",10,61414
+"Alabama",11,60933
+"Alabama",12,61672
+"Alabama",13,64515
+"Alabama",14,65920
+"Alabama",15,64079
+"Alabama",16,64179
+"Alabama",17,63098
+"Alabama",18,61614
+"Alabama",19,64161
+"Alabama",20,66698
+"Alabama",21,67785
+"Alabama",22,70476
+"Alabama",23,73222
+"Alabama",24,72144
+"Alabama",25,66622
+"Alabama",26,63371
+"Alabama",27,61062
+"Alabama",28,60959
+"Alabama",29,61712
+"Alabama",30,59781
+"Alabama",31,61262
+"Alabama",32,61136
+"Alabama",33,61704
+"Alabama",34,63213
+"Alabama",35,59431
+"Alabama",36,58927
+"Alabama",37,58246
+"Alabama",38,56406
+"Alabama",39,58461
+"Alabama",40,57706
+"Alabama",41,59310
+"Alabama",42,62236
+"Alabama",43,65918
+"Alabama",44,64930
+"Alabama",45,61256
+"Alabama",46,59894
+"Alabama",47,60249
+"Alabama",48,62444
+"Alabama",49,66948
+"Alabama",50,68091
+"Alabama",51,68031
+"Alabama",52,68616
+"Alabama",53,69675
+"Alabama",54,69909
+"Alabama",55,67878
+"Alabama",56,67801
+"Alabama",57,68333
+"Alabama",58,65940
+"Alabama",59,65223
+"Alabama",60,63001
+"Alabama",61,60199
+"Alabama",62,58270
+"Alabama",63,56669
+"Alabama",64,56038
+"Alabama",65,55261
+"Alabama",66,54898
+"Alabama",67,57098
+"Alabama",68,41922
+"Alabama",69,41810
+"Alabama",70,41038
+"Alabama",71,41973
+"Alabama",72,36239
+"Alabama",73,33277
+"Alabama",74,31912
+"Alabama",75,30104
+"Alabama",76,28866
+"Alabama",77,26169
+"Alabama",78,24935
+"Alabama",79,23584
+"Alabama",80,20782
+"Alabama",81,19703
+"Alabama",82,18311
+"Alabama",83,16703
+"Alabama",84,15780
+"Alabama",85,83567
+"Alabama",999,4834455
+"Alaska",0,11157
+"Alaska",1,11048
+"Alaska",2,10713
+"Alaska",3,11413
+"Alaska",4,10377
+"Alaska",5,10536
+"Alaska",6,10640
+"Alaska",7,10352
+"Alaska",8,10418
+"Alaska",9,9987
+"Alaska",10,9970
+"Alaska",11,9915
+"Alaska",12,9844
+"Alaska",13,9798
+"Alaska",14,10255
+"Alaska",15,10065
+"Alaska",16,9944
+"Alaska",17,10111
+"Alaska",18,9424
+"Alaska",19,8844
+"Alaska",20,9641
+"Alaska",21,10272
+"Alaska",22,11288
+"Alaska",23,12220
+"Alaska",24,12081
+"Alaska",25,11668
+"Alaska",26,11542
+"Alaska",27,11269
+"Alaska",28,11183
+"Alaska",29,11170
+"Alaska",30,10962
+"Alaska",31,10764
+"Alaska",32,10436
+"Alaska",33,9948
+"Alaska",34,9993
+"Alaska",35,9018
+"Alaska",36,8970
+"Alaska",37,8539
+"Alaska",38,8107
+"Alaska",39,8483
+"Alaska",40,8193
+"Alaska",41,8087
+"Alaska",42,8469
+"Alaska",43,8879
+"Alaska",44,9391
+"Alaska",45,8762
+"Alaska",46,8514
+"Alaska",47,8745
+"Alaska",48,8801
+"Alaska",49,9813
+"Alaska",50,9987
+"Alaska",51,10276
+"Alaska",52,10491
+"Alaska",53,10509
+"Alaska",54,10917
+"Alaska",55,10312
+"Alaska",56,10277
+"Alaska",57,10434
+"Alaska",58,9822
+"Alaska",59,10114
+"Alaska",60,9567
+"Alaska",61,8892
+"Alaska",62,8389
+"Alaska",63,7751
+"Alaska",64,7447
+"Alaska",65,7011
+"Alaska",66,6338
+"Alaska",67,6369
+"Alaska",68,4653
+"Alaska",69,4644
+"Alaska",70,4149
+"Alaska",71,4059
+"Alaska",72,3484
+"Alaska",73,3116
+"Alaska",74,2783
+"Alaska",75,2401
+"Alaska",76,2287
+"Alaska",77,2044
+"Alaska",78,1867
+"Alaska",79,1716
+"Alaska",80,1517
+"Alaska",81,1405
+"Alaska",82,1303
+"Alaska",83,1225
+"Alaska",84,1111
+"Alaska",85,5931
+"Alaska",999,714617
+"Arizona",0,85876
+"Arizona",1,85845
+"Arizona",2,85064
+"Arizona",3,85368
+"Arizona",4,88735
+"Arizona",5,89584
+"Arizona",6,93286
+"Arizona",7,94257
+"Arizona",8,92781
+"Arizona",9,91801
+"Arizona",10,90290
+"Arizona",11,91257
+"Arizona",12,89854
+"Arizona",13,92426
+"Arizona",14,93347
+"Arizona",15,90592
+"Arizona",16,90421
+"Arizona",17,90906
+"Arizona",18,90768
+"Arizona",19,91037
+"Arizona",20,91472
+"Arizona",21,93293
+"Arizona",22,96536
+"Arizona",23,102029
+"Arizona",24,100155
+"Arizona",25,94399
+"Arizona",26,90338
+"Arizona",27,86973
+"Arizona",28,86884
+"Arizona",29,88872
+"Arizona",30,86418
+"Arizona",31,88150
+"Arizona",32,89086
+"Arizona",33,88203
+"Arizona",34,90222
+"Arizona",35,84090
+"Arizona",36,82482
+"Arizona",37,81942
+"Arizona",38,80261
+"Arizona",39,83856
+"Arizona",40,80800
+"Arizona",41,80066
+"Arizona",42,83394
+"Arizona",43,87158
+"Arizona",44,88584
+"Arizona",45,82829
+"Arizona",46,80714
+"Arizona",47,78729
+"Arizona",48,79343
+"Arizona",49,84623
+"Arizona",50,85704
+"Arizona",51,85905
+"Arizona",52,86338
+"Arizona",53,86434
+"Arizona",54,87988
+"Arizona",55,84606
+"Arizona",56,84493
+"Arizona",57,83743
+"Arizona",58,80906
+"Arizona",59,80781
+"Arizona",60,78712
+"Arizona",61,76953
+"Arizona",62,74841
+"Arizona",63,74315
+"Arizona",64,74512
+"Arizona",65,74319
+"Arizona",66,76565
+"Arizona",67,79570
+"Arizona",68,60331
+"Arizona",69,60320
+"Arizona",70,60078
+"Arizona",71,61165
+"Arizona",72,53857
+"Arizona",73,49497
+"Arizona",74,46784
+"Arizona",75,43693
+"Arizona",76,41493
+"Arizona",77,37888
+"Arizona",78,35592
+"Arizona",79,33291
+"Arizona",80,29131
+"Arizona",81,28013
+"Arizona",82,26256
+"Arizona",83,24455
+"Arizona",84,23147
+"Arizona",85,124772
+"Arizona",999,6711844
+"Arkansas",0,37936
+"Arkansas",1,38151
+"Arkansas",2,38827
+"Arkansas",3,38481
+"Arkansas",4,38226
+"Arkansas",5,38748
+"Arkansas",6,40033
+"Arkansas",7,40491
+"Arkansas",8,39952
+"Arkansas",9,39659
+"Arkansas",10,39366
+"Arkansas",11,39187
+"Arkansas",12,38646
+"Arkansas",13,39891
+"Arkansas",14,40390
+"Arkansas",15,39616
+"Arkansas",16,39691
+"Arkansas",17,39728
+"Arkansas",18,38228
+"Arkansas",19,38394
+"Arkansas",20,39963
+"Arkansas",21,40452
+"Arkansas",22,41830
+"Arkansas",23,43341
+"Arkansas",24,42409
+"Arkansas",25,40174
+"Arkansas",26,38433
+"Arkansas",27,37405
+"Arkansas",28,37532
+"Arkansas",29,37978
+"Arkansas",30,37461
+"Arkansas",31,38161
+"Arkansas",32,38417
+"Arkansas",33,38506
+"Arkansas",34,39502
+"Arkansas",35,36778
+"Arkansas",36,36165
+"Arkansas",37,35788
+"Arkansas",38,34707
+"Arkansas",39,36151
+"Arkansas",40,34785
+"Arkansas",41,35398
+"Arkansas",42,36680
+"Arkansas",43,38525
+"Arkansas",44,38256
+"Arkansas",45,36123
+"Arkansas",46,35249
+"Arkansas",47,35218
+"Arkansas",48,36186
+"Arkansas",49,39322
+"Arkansas",50,40534
+"Arkansas",51,40861
+"Arkansas",52,40037
+"Arkansas",53,40882
+"Arkansas",54,40918
+"Arkansas",55,39760
+"Arkansas",56,39494
+"Arkansas",57,39346
+"Arkansas",58,38106
+"Arkansas",59,38024
+"Arkansas",60,37180
+"Arkansas",61,35778
+"Arkansas",62,34529
+"Arkansas",63,34084
+"Arkansas",64,33337
+"Arkansas",65,33317
+"Arkansas",66,33051
+"Arkansas",67,35034
+"Arkansas",68,25766
+"Arkansas",69,26237
+"Arkansas",70,25886
+"Arkansas",71,25858
+"Arkansas",72,23069
+"Arkansas",73,21445
+"Arkansas",74,20550
+"Arkansas",75,18690
+"Arkansas",76,17886
+"Arkansas",77,16176
+"Arkansas",78,15539
+"Arkansas",79,14915
+"Arkansas",80,13166
+"Arkansas",81,12339
+"Arkansas",82,11562
+"Arkansas",83,10677
+"Arkansas",84,9978
+"Arkansas",85,55050
+"Arkansas",999,2959597
+"California",0,502993
+"California",1,504342
+"California",2,496348
+"California",3,510260
+"California",4,501784
+"California",5,497786
+"California",6,516713
+"California",7,518757
+"California",8,511339
+"California",9,509275
+"California",10,505790
+"California",11,500694
+"California",12,494968
+"California",13,508480
+"California",14,516473
+"California",15,511647
+"California",16,517878
+"California",17,527527
+"California",18,533920
+"California",19,521560
+"California",20,535547
+"California",21,543339
+"California",22,570119
+"California",23,608833
+"California",24,618416
+"California",25,597347
+"California",26,581759
+"California",27,566290
+"California",28,564927
+"California",29,571007
+"California",30,553933
+"California",31,558818
+"California",32,559397
+"California",33,548096
+"California",34,561031
+"California",35,518986
+"California",36,510233
+"California",37,508315
+"California",38,497074
+"California",39,515349
+"California",40,497683
+"California",41,499477
+"California",42,510953
+"California",43,535883
+"California",44,557053
+"California",45,526605
+"California",46,512195
+"California",47,502133
+"California",48,505860
+"California",49,533074
+"California",50,536652
+"California",51,531913
+"California",52,525308
+"California",53,526785
+"California",54,538185
+"California",55,508232
+"California",56,501853
+"California",57,493024
+"California",58,476824
+"California",59,474236
+"California",60,449066
+"California",61,428502
+"California",62,406154
+"California",63,392784
+"California",64,388604
+"California",65,369942
+"California",66,360524
+"California",67,369482
+"California",68,284506
+"California",69,279753
+"California",70,263564
+"California",71,261605
+"California",72,230047
+"California",73,211806
+"California",74,203131
+"California",75,189702
+"California",76,180608
+"California",77,166868
+"California",78,158160
+"California",79,151663
+"California",80,136855
+"California",81,131185
+"California",82,123529
+"California",83,117880
+"California",84,113587
+"California",85,688650
+"California",999,38649435
+"Colorado",0,66471
+"Colorado",1,66335
+"Colorado",2,66169
+"Colorado",3,67645
+"Colorado",4,68311
+"Colorado",5,68921
+"Colorado",6,70967
+"Colorado",7,71739
+"Colorado",8,71939
+"Colorado",9,71425
+"Colorado",10,71896
+"Colorado",11,71156
+"Colorado",12,69736
+"Colorado",13,70504
+"Colorado",14,70336
+"Colorado",15,68259
+"Colorado",16,67405
+"Colorado",17,67158
+"Colorado",18,68837
+"Colorado",19,70377
+"Colorado",20,69749
+"Colorado",21,71774
+"Colorado",22,75184
+"Colorado",23,77004
+"Colorado",24,79076
+"Colorado",25,77853
+"Colorado",26,77647
+"Colorado",27,77920
+"Colorado",28,79652
+"Colorado",29,79407
+"Colorado",30,77137
+"Colorado",31,78545
+"Colorado",32,78827
+"Colorado",33,77595
+"Colorado",34,78905
+"Colorado",35,73759
+"Colorado",36,72490
+"Colorado",37,70692
+"Colorado",38,68596
+"Colorado",39,71046
+"Colorado",40,68202
+"Colorado",41,68047
+"Colorado",42,71254
+"Colorado",43,75463
+"Colorado",44,75425
+"Colorado",45,71218
+"Colorado",46,67586
+"Colorado",47,65937
+"Colorado",48,66166
+"Colorado",49,70625
+"Colorado",50,72322
+"Colorado",51,73054
+"Colorado",52,74205
+"Colorado",53,75339
+"Colorado",54,76222
+"Colorado",55,73774
+"Colorado",56,72897
+"Colorado",57,72596
+"Colorado",58,70314
+"Colorado",59,68852
+"Colorado",60,67135
+"Colorado",61,65149
+"Colorado",62,61988
+"Colorado",63,59429
+"Colorado",64,58070
+"Colorado",65,55177
+"Colorado",66,54693
+"Colorado",67,56358
+"Colorado",68,40788
+"Colorado",69,39213
+"Colorado",70,37667
+"Colorado",71,37697
+"Colorado",72,32091
+"Colorado",73,29144
+"Colorado",74,27121
+"Colorado",75,25290
+"Colorado",76,23720
+"Colorado",77,21680
+"Colorado",78,20419
+"Colorado",79,19197
+"Colorado",80,17313
+"Colorado",81,16604
+"Colorado",82,15656
+"Colorado",83,14934
+"Colorado",84,13626
+"Colorado",85,81627
+"Colorado",999,5319728
+"Connecticut",0,36771
+"Connecticut",1,37081
+"Connecticut",2,37861
+"Connecticut",3,38784
+"Connecticut",4,38940
+"Connecticut",5,39590
+"Connecticut",6,41360
+"Connecticut",7,42382
+"Connecticut",8,43084
+"Connecticut",9,43750
+"Connecticut",10,44889
+"Connecticut",11,44905
+"Connecticut",12,45487
+"Connecticut",13,46501
+"Connecticut",14,48040
+"Connecticut",15,48262
+"Connecticut",16,48316
+"Connecticut",17,49427
+"Connecticut",18,52501
+"Connecticut",19,53108
+"Connecticut",20,54280
+"Connecticut",21,53015
+"Connecticut",22,47612
+"Connecticut",23,43726
+"Connecticut",24,42691
+"Connecticut",25,42069
+"Connecticut",26,43583
+"Connecticut",27,44948
+"Connecticut",28,44882
+"Connecticut",29,44644
+"Connecticut",30,43171
+"Connecticut",31,43681
+"Connecticut",32,43872
+"Connecticut",33,42952
+"Connecticut",34,44649
+"Connecticut",35,42161
+"Connecticut",36,41607
+"Connecticut",37,41222
+"Connecticut",38,40755
+"Connecticut",39,41903
+"Connecticut",40,41061
+"Connecticut",41,42549
+"Connecticut",42,45352
+"Connecticut",43,49653
+"Connecticut",44,51918
+"Connecticut",45,50429
+"Connecticut",46,50048
+"Connecticut",47,51259
+"Connecticut",48,53780
+"Connecticut",49,56416
+"Connecticut",50,57343
+"Connecticut",51,56395
+"Connecticut",52,56229
+"Connecticut",53,57504
+"Connecticut",54,57532
+"Connecticut",55,55945
+"Connecticut",56,55590
+"Connecticut",57,54066
+"Connecticut",58,52144
+"Connecticut",59,50833
+"Connecticut",60,48328
+"Connecticut",61,46005
+"Connecticut",62,43231
+"Connecticut",63,41300
+"Connecticut",64,39787
+"Connecticut",65,38266
+"Connecticut",66,38370
+"Connecticut",67,41256
+"Connecticut",68,30021
+"Connecticut",69,29190
+"Connecticut",70,28599
+"Connecticut",71,30452
+"Connecticut",72,25428
+"Connecticut",73,22349
+"Connecticut",74,20986
+"Connecticut",75,19755
+"Connecticut",76,18913
+"Connecticut",77,17579
+"Connecticut",78,16840
+"Connecticut",79,16462
+"Connecticut",80,15106
+"Connecticut",81,14769
+"Connecticut",82,14354
+"Connecticut",83,13963
+"Connecticut",84,13480
+"Connecticut",85,89785
+"Connecticut",999,3589082
+"Delaware",0,11122
+"Delaware",1,11092
+"Delaware",2,11347
+"Delaware",3,11523
+"Delaware",4,11267
+"Delaware",5,11043
+"Delaware",6,11343
+"Delaware",7,11389
+"Delaware",8,11409
+"Delaware",9,11325
+"Delaware",10,11466
+"Delaware",11,11473
+"Delaware",12,11036
+"Delaware",13,11470
+"Delaware",14,11727
+"Delaware",15,11602
+"Delaware",16,11494
+"Delaware",17,11118
+"Delaware",18,12639
+"Delaware",19,12992
+"Delaware",20,12503
+"Delaware",21,11997
+"Delaware",22,12186
+"Delaware",23,12809
+"Delaware",24,13378
+"Delaware",25,13833
+"Delaware",26,13307
+"Delaware",27,12184
+"Delaware",28,12188
+"Delaware",29,11985
+"Delaware",30,11464
+"Delaware",31,11760
+"Delaware",32,11621
+"Delaware",33,11660
+"Delaware",34,11970
+"Delaware",35,10973
+"Delaware",36,10887
+"Delaware",37,10474
+"Delaware",38,10078
+"Delaware",39,10650
+"Delaware",40,10186
+"Delaware",41,10665
+"Delaware",42,11134
+"Delaware",43,12270
+"Delaware",44,12349
+"Delaware",45,11726
+"Delaware",46,11705
+"Delaware",47,12182
+"Delaware",48,12632
+"Delaware",49,13323
+"Delaware",50,13533
+"Delaware",51,13556
+"Delaware",52,13547
+"Delaware",53,13607
+"Delaware",54,13606
+"Delaware",55,13389
+"Delaware",56,13472
+"Delaware",57,13330
+"Delaware",58,12976
+"Delaware",59,12575
+"Delaware",60,12040
+"Delaware",61,12089
+"Delaware",62,11585
+"Delaware",63,11462
+"Delaware",64,11099
+"Delaware",65,11270
+"Delaware",66,11610
+"Delaware",67,11966
+"Delaware",68,8842
+"Delaware",69,8662
+"Delaware",70,8585
+"Delaware",71,8911
+"Delaware",72,7684
+"Delaware",73,6959
+"Delaware",74,6366
+"Delaware",75,6094
+"Delaware",76,5764
+"Delaware",77,5161
+"Delaware",78,4808
+"Delaware",79,4619
+"Delaware",80,4166
+"Delaware",81,3885
+"Delaware",82,3827
+"Delaware",83,3490
+"Delaware",84,3287
+"Delaware",85,17951
+"Delaware",999,931729
+"District of Columbia",0,9147
+"District of Columbia",1,8966
+"District of Columbia",2,8372
+"District of Columbia",3,8714
+"District of Columbia",4,7695
+"District of Columbia",5,6685
+"District of Columbia",6,6640
+"District of Columbia",7,6315
+"District of Columbia",8,5811
+"District of Columbia",9,5637
+"District of Columbia",10,5405
+"District of Columbia",11,5058
+"District of Columbia",12,5061
+"District of Columbia",13,5147
+"District of Columbia",14,5095
+"District of Columbia",15,5045
+"District of Columbia",16,5183
+"District of Columbia",17,5329
+"District of Columbia",18,9157
+"District of Columbia",19,12811
+"District of Columbia",20,11466
+"District of Columbia",21,10671
+"District of Columbia",22,10980
+"District of Columbia",23,11866
+"District of Columbia",24,12897
+"District of Columbia",25,14321
+"District of Columbia",26,15030
+"District of Columbia",27,15686
+"District of Columbia",28,16063
+"District of Columbia",29,16121
+"District of Columbia",30,15529
+"District of Columbia",31,14861
+"District of Columbia",32,14383
+"District of Columbia",33,13276
+"District of Columbia",34,13372
+"District of Columbia",35,11683
+"District of Columbia",36,10647
+"District of Columbia",37,9815
+"District of Columbia",38,9088
+"District of Columbia",39,9007
+"District of Columbia",40,8211
+"District of Columbia",41,8181
+"District of Columbia",42,8206
+"District of Columbia",43,8326
+"District of Columbia",44,8564
+"District of Columbia",45,7784
+"District of Columbia",46,7238
+"District of Columbia",47,7312
+"District of Columbia",48,7305
+"District of Columbia",49,7745
+"District of Columbia",50,8077
+"District of Columbia",51,7844
+"District of Columbia",52,7605
+"District of Columbia",53,7633
+"District of Columbia",54,7717
+"District of Columbia",55,7534
+"District of Columbia",56,7296
+"District of Columbia",57,7375
+"District of Columbia",58,7172
+"District of Columbia",59,7237
+"District of Columbia",60,6950
+"District of Columbia",61,6697
+"District of Columbia",62,6322
+"District of Columbia",63,6254
+"District of Columbia",64,6136
+"District of Columbia",65,5967
+"District of Columbia",66,5578
+"District of Columbia",67,5528
+"District of Columbia",68,4073
+"District of Columbia",69,4086
+"District of Columbia",70,3841
+"District of Columbia",71,3878
+"District of Columbia",72,3480
+"District of Columbia",73,3056
+"District of Columbia",74,2951
+"District of Columbia",75,2717
+"District of Columbia",76,2644
+"District of Columbia",77,2378
+"District of Columbia",78,2237
+"District of Columbia",79,2150
+"District of Columbia",80,1953
+"District of Columbia",81,1919
+"District of Columbia",82,1798
+"District of Columbia",83,1619
+"District of Columbia",84,1698
+"District of Columbia",85,11203
+"District of Columbia",999,655510
+"Florida",0,215254
+"Florida",1,214944
+"Florida",2,217766
+"Florida",3,218654
+"Florida",4,217731
+"Florida",5,217220
+"Florida",6,227018
+"Florida",7,229167
+"Florida",8,227040
+"Florida",9,225667
+"Florida",10,220691
+"Florida",11,222958
+"Florida",12,224468
+"Florida",13,232519
+"Florida",14,237438
+"Florida",15,234616
+"Florida",16,234243
+"Florida",17,236185
+"Florida",18,233555
+"Florida",19,228831
+"Florida",20,238480
+"Florida",21,245263
+"Florida",22,257785
+"Florida",23,276144
+"Florida",24,281410
+"Florida",25,267646
+"Florida",26,259455
+"Florida",27,251477
+"Florida",28,249414
+"Florida",29,251360
+"Florida",30,243820
+"Florida",31,245149
+"Florida",32,246114
+"Florida",33,241479
+"Florida",34,246773
+"Florida",35,232595
+"Florida",36,230800
+"Florida",37,230782
+"Florida",38,226071
+"Florida",39,234154
+"Florida",40,231518
+"Florida",41,238208
+"Florida",42,251706
+"Florida",43,264556
+"Florida",44,267147
+"Florida",45,253364
+"Florida",46,250986
+"Florida",47,256072
+"Florida",48,263325
+"Florida",49,280694
+"Florida",50,287323
+"Florida",51,285807
+"Florida",52,284165
+"Florida",53,285530
+"Florida",54,286212
+"Florida",55,276057
+"Florida",56,273446
+"Florida",57,272422
+"Florida",58,263760
+"Florida",59,262086
+"Florida",60,254450
+"Florida",61,247667
+"Florida",62,243101
+"Florida",63,241066
+"Florida",64,239455
+"Florida",65,241107
+"Florida",66,249140
+"Florida",67,262999
+"Florida",68,202258
+"Florida",69,202552
+"Florida",70,201242
+"Florida",71,208638
+"Florida",72,183711
+"Florida",73,169294
+"Florida",74,161760
+"Florida",75,152963
+"Florida",76,146904
+"Florida",77,136198
+"Florida",78,129547
+"Florida",79,122529
+"Florida",80,109075
+"Florida",81,105154
+"Florida",82,100302
+"Florida",83,94836
+"Florida",84,89044
+"Florida",85,522291
+"Florida",999,19823803
+"Georgia",0,129104
+"Georgia",1,129915
+"Georgia",2,132990
+"Georgia",3,133811
+"Georgia",4,136855
+"Georgia",5,136509
+"Georgia",6,141802
+"Georgia",7,143139
+"Georgia",8,141870
+"Georgia",9,141223
+"Georgia",10,140969
+"Georgia",11,139981
+"Georgia",12,140191
+"Georgia",13,143387
+"Georgia",14,145183
+"Georgia",15,140328
+"Georgia",16,138000
+"Georgia",17,137926
+"Georgia",18,136119
+"Georgia",19,138394
+"Georgia",20,139565
+"Georgia",21,141572
+"Georgia",22,146157
+"Georgia",23,147306
+"Georgia",24,147705
+"Georgia",25,141340
+"Georgia",26,136228
+"Georgia",27,133277
+"Georgia",28,134365
+"Georgia",29,135172
+"Georgia",30,131026
+"Georgia",31,134375
+"Georgia",32,134954
+"Georgia",33,135951
+"Georgia",34,140528
+"Georgia",35,132960
+"Georgia",36,131165
+"Georgia",37,130512
+"Georgia",38,127180
+"Georgia",39,132751
+"Georgia",40,130385
+"Georgia",41,134557
+"Georgia",42,141384
+"Georgia",43,149128
+"Georgia",44,148024
+"Georgia",45,138880
+"Georgia",46,135344
+"Georgia",47,134662
+"Georgia",48,137397
+"Georgia",49,143976
+"Georgia",50,144346
+"Georgia",51,141870
+"Georgia",52,140446
+"Georgia",53,139668
+"Georgia",54,139010
+"Georgia",55,133297
+"Georgia",56,130317
+"Georgia",57,129234
+"Georgia",58,123702
+"Georgia",59,121365
+"Georgia",60,116232
+"Georgia",61,111305
+"Georgia",62,106600
+"Georgia",63,104186
+"Georgia",64,102776
+"Georgia",65,100257
+"Georgia",66,100167
+"Georgia",67,102559
+"Georgia",68,75719
+"Georgia",69,74449
+"Georgia",70,71672
+"Georgia",71,72609
+"Georgia",72,62126
+"Georgia",73,56483
+"Georgia",74,53021
+"Georgia",75,48942
+"Georgia",76,45310
+"Georgia",77,41149
+"Georgia",78,38835
+"Georgia",79,36822
+"Georgia",80,32164
+"Georgia",81,30431
+"Georgia",82,28099
+"Georgia",83,25607
+"Georgia",84,23923
+"Georgia",85,131194
+"Georgia",999,10031414
+"Hawaii",0,18853
+"Hawaii",1,18462
+"Hawaii",2,18117
+"Hawaii",3,18597
+"Hawaii",4,17451
+"Hawaii",5,17479
+"Hawaii",6,17624
+"Hawaii",7,17303
+"Hawaii",8,16862
+"Hawaii",9,17015
+"Hawaii",10,17153
+"Hawaii",11,16700
+"Hawaii",12,16060
+"Hawaii",13,16441
+"Hawaii",14,16451
+"Hawaii",15,16111
+"Hawaii",16,15883
+"Hawaii",17,15882
+"Hawaii",18,15507
+"Hawaii",19,15105
+"Hawaii",20,16474
+"Hawaii",21,16935
+"Hawaii",22,18387
+"Hawaii",23,20072
+"Hawaii",24,20048
+"Hawaii",25,19863
+"Hawaii",26,19494
+"Hawaii",27,19625
+"Hawaii",28,19523
+"Hawaii",29,19250
+"Hawaii",30,18868
+"Hawaii",31,18968
+"Hawaii",32,18655
+"Hawaii",33,18229
+"Hawaii",34,18629
+"Hawaii",35,17289
+"Hawaii",36,16961
+"Hawaii",37,16742
+"Hawaii",38,16041
+"Hawaii",39,16216
+"Hawaii",40,15965
+"Hawaii",41,15710
+"Hawaii",42,16302
+"Hawaii",43,16966
+"Hawaii",44,18236
+"Hawaii",45,17207
+"Hawaii",46,16247
+"Hawaii",47,16286
+"Hawaii",48,16845
+"Hawaii",49,17785
+"Hawaii",50,18065
+"Hawaii",51,18159
+"Hawaii",52,18022
+"Hawaii",53,18103
+"Hawaii",54,19326
+"Hawaii",55,18452
+"Hawaii",56,18641
+"Hawaii",57,18447
+"Hawaii",58,18506
+"Hawaii",59,18541
+"Hawaii",60,18147
+"Hawaii",61,17819
+"Hawaii",62,17218
+"Hawaii",63,16634
+"Hawaii",64,17240
+"Hawaii",65,16362
+"Hawaii",66,16177
+"Hawaii",67,15972
+"Hawaii",68,13034
+"Hawaii",69,13061
+"Hawaii",70,12608
+"Hawaii",71,11327
+"Hawaii",72,10153
+"Hawaii",73,9143
+"Hawaii",74,8860
+"Hawaii",75,7982
+"Hawaii",76,7504
+"Hawaii",77,6964
+"Hawaii",78,6570
+"Hawaii",79,6564
+"Hawaii",80,5943
+"Hawaii",81,6027
+"Hawaii",82,5862
+"Hawaii",83,5612
+"Hawaii",84,5538
+"Hawaii",85,36891
+"Hawaii",999,1372348
+"Idaho",0,22805
+"Idaho",1,22721
+"Idaho",2,22211
+"Idaho",3,22744
+"Idaho",4,23351
+"Idaho",5,24078
+"Idaho",6,24829
+"Idaho",7,25085
+"Idaho",8,24771
+"Idaho",9,24990
+"Idaho",10,24584
+"Idaho",11,24361
+"Idaho",12,24382
+"Idaho",13,24500
+"Idaho",14,24659
+"Idaho",15,24163
+"Idaho",16,23442
+"Idaho",17,23404
+"Idaho",18,22229
+"Idaho",19,21410
+"Idaho",20,20866
+"Idaho",21,21406
+"Idaho",22,22989
+"Idaho",23,22928
+"Idaho",24,22964
+"Idaho",25,22321
+"Idaho",26,20872
+"Idaho",27,20863
+"Idaho",28,20852
+"Idaho",29,21226
+"Idaho",30,20836
+"Idaho",31,21326
+"Idaho",32,21813
+"Idaho",33,21539
+"Idaho",34,21916
+"Idaho",35,21161
+"Idaho",36,20434
+"Idaho",37,20488
+"Idaho",38,19465
+"Idaho",39,20012
+"Idaho",40,18720
+"Idaho",41,18698
+"Idaho",42,19218
+"Idaho",43,20391
+"Idaho",44,20282
+"Idaho",45,19289
+"Idaho",46,18580
+"Idaho",47,18540
+"Idaho",48,18742
+"Idaho",49,19324
+"Idaho",50,19984
+"Idaho",51,20680
+"Idaho",52,20936
+"Idaho",53,21616
+"Idaho",54,21317
+"Idaho",55,20818
+"Idaho",56,21265
+"Idaho",57,21197
+"Idaho",58,20519
+"Idaho",59,20336
+"Idaho",60,19923
+"Idaho",61,19912
+"Idaho",62,19234
+"Idaho",63,18427
+"Idaho",64,17916
+"Idaho",65,17520
+"Idaho",66,17653
+"Idaho",67,18045
+"Idaho",68,13391
+"Idaho",69,13403
+"Idaho",70,13234
+"Idaho",71,13357
+"Idaho",72,11536
+"Idaho",73,10571
+"Idaho",74,9983
+"Idaho",75,9342
+"Idaho",76,8561
+"Idaho",77,7819
+"Idaho",78,7382
+"Idaho",79,6882
+"Idaho",80,6134
+"Idaho",81,5892
+"Idaho",82,5598
+"Idaho",83,5006
+"Idaho",84,4718
+"Idaho",85,27349
+"Idaho",999,1630236
+"Illinois",0,156134
+"Illinois",1,156360
+"Illinois",2,158115
+"Illinois",3,159663
+"Illinois",4,160413
+"Illinois",5,160525
+"Illinois",6,165901
+"Illinois",7,167073
+"Illinois",8,167057
+"Illinois",9,167770
+"Illinois",10,169693
+"Illinois",11,168463
+"Illinois",12,168009
+"Illinois",13,171752
+"Illinois",14,174134
+"Illinois",15,171302
+"Illinois",16,172641
+"Illinois",17,173404
+"Illinois",18,169483
+"Illinois",19,170139
+"Illinois",20,175083
+"Illinois",21,176926
+"Illinois",22,182546
+"Illinois",23,182505
+"Illinois",24,181250
+"Illinois",25,175556
+"Illinois",26,173852
+"Illinois",27,173625
+"Illinois",28,177289
+"Illinois",29,180655
+"Illinois",30,175323
+"Illinois",31,177961
+"Illinois",32,178780
+"Illinois",33,177801
+"Illinois",34,182567
+"Illinois",35,171169
+"Illinois",36,167187
+"Illinois",37,166176
+"Illinois",38,160372
+"Illinois",39,165243
+"Illinois",40,159202
+"Illinois",41,161353
+"Illinois",42,168687
+"Illinois",43,177243
+"Illinois",44,179224
+"Illinois",45,168779
+"Illinois",46,166498
+"Illinois",47,166629
+"Illinois",48,169673
+"Illinois",49,179283
+"Illinois",50,181523
+"Illinois",51,181839
+"Illinois",52,182245
+"Illinois",53,185544
+"Illinois",54,188339
+"Illinois",55,181441
+"Illinois",56,180473
+"Illinois",57,177357
+"Illinois",58,170492
+"Illinois",59,169157
+"Illinois",60,159904
+"Illinois",61,153482
+"Illinois",62,147104
+"Illinois",63,142395
+"Illinois",64,137167
+"Illinois",65,130142
+"Illinois",66,127705
+"Illinois",67,132907
+"Illinois",68,96890
+"Illinois",69,94087
+"Illinois",70,92154
+"Illinois",71,96312
+"Illinois",72,84574
+"Illinois",73,76105
+"Illinois",74,71246
+"Illinois",75,68008
+"Illinois",76,65351
+"Illinois",77,59876
+"Illinois",78,57247
+"Illinois",79,54608
+"Illinois",80,48728
+"Illinois",81,47259
+"Illinois",82,44643
+"Illinois",83,43255
+"Illinois",84,41384
+"Illinois",85,256052
+"Illinois",999,12853463
+"Indiana",0,82993
+"Indiana",1,83660
+"Indiana",2,83634
+"Indiana",3,84197
+"Indiana",4,85003
+"Indiana",5,85603
+"Indiana",6,88344
+"Indiana",7,89522
+"Indiana",8,88551
+"Indiana",9,88539
+"Indiana",10,89578
+"Indiana",11,88468
+"Indiana",12,88418
+"Indiana",13,91110
+"Indiana",14,92629
+"Indiana",15,90891
+"Indiana",16,90550
+"Indiana",17,90237
+"Indiana",18,87076
+"Indiana",19,96558
+"Indiana",20,98981
+"Indiana",21,97932
+"Indiana",22,101073
+"Indiana",23,96426
+"Indiana",24,90998
+"Indiana",25,86151
+"Indiana",26,84755
+"Indiana",27,82747
+"Indiana",28,83462
+"Indiana",29,84120
+"Indiana",30,82035
+"Indiana",31,84134
+"Indiana",32,84409
+"Indiana",33,85288
+"Indiana",34,87587
+"Indiana",35,82756
+"Indiana",36,81073
+"Indiana",37,80411
+"Indiana",38,78158
+"Indiana",39,80815
+"Indiana",40,78392
+"Indiana",41,79842
+"Indiana",42,84364
+"Indiana",43,89391
+"Indiana",44,88457
+"Indiana",45,83405
+"Indiana",46,81517
+"Indiana",47,82958
+"Indiana",48,84054
+"Indiana",49,90318
+"Indiana",50,92859
+"Indiana",51,92283
+"Indiana",52,92838
+"Indiana",53,95204
+"Indiana",54,95233
+"Indiana",55,92835
+"Indiana",56,93030
+"Indiana",57,91751
+"Indiana",58,88076
+"Indiana",59,87419
+"Indiana",60,84105
+"Indiana",61,80993
+"Indiana",62,77778
+"Indiana",63,74342
+"Indiana",64,72023
+"Indiana",65,70303
+"Indiana",66,67902
+"Indiana",67,71235
+"Indiana",68,50953
+"Indiana",69,50826
+"Indiana",70,49379
+"Indiana",71,51503
+"Indiana",72,44887
+"Indiana",73,40907
+"Indiana",74,38216
+"Indiana",75,36403
+"Indiana",76,34914
+"Indiana",77,31641
+"Indiana",78,29960
+"Indiana",79,28612
+"Indiana",80,25630
+"Indiana",81,24971
+"Indiana",82,23428
+"Indiana",83,22189
+"Indiana",84,21162
+"Indiana",85,126423
+"Indiana",999,6593783
+"Iowa",0,38771
+"Iowa",1,39007
+"Iowa",2,39077
+"Iowa",3,38605
+"Iowa",4,39880
+"Iowa",5,40168
+"Iowa",6,41459
+"Iowa",7,41695
+"Iowa",8,41347
+"Iowa",9,40580
+"Iowa",10,40796
+"Iowa",11,40267
+"Iowa",12,39874
+"Iowa",13,40873
+"Iowa",14,41302
+"Iowa",15,40518
+"Iowa",16,40788
+"Iowa",17,40947
+"Iowa",18,42163
+"Iowa",19,48280
+"Iowa",20,48308
+"Iowa",21,47968
+"Iowa",22,48239
+"Iowa",23,43760
+"Iowa",24,41567
+"Iowa",25,39121
+"Iowa",26,37033
+"Iowa",27,36880
+"Iowa",28,38055
+"Iowa",29,39955
+"Iowa",30,39245
+"Iowa",31,40036
+"Iowa",32,40219
+"Iowa",33,40042
+"Iowa",34,41105
+"Iowa",35,38371
+"Iowa",36,37386
+"Iowa",37,36222
+"Iowa",38,34702
+"Iowa",39,35768
+"Iowa",40,33725
+"Iowa",41,33700
+"Iowa",42,35783
+"Iowa",43,38334
+"Iowa",44,38753
+"Iowa",45,37241
+"Iowa",46,36326
+"Iowa",47,36818
+"Iowa",48,37729
+"Iowa",49,40203
+"Iowa",50,41808
+"Iowa",51,42576
+"Iowa",52,43516
+"Iowa",53,44823
+"Iowa",54,45393
+"Iowa",55,43698
+"Iowa",56,43847
+"Iowa",57,43523
+"Iowa",58,42327
+"Iowa",59,42331
+"Iowa",60,40870
+"Iowa",61,39570
+"Iowa",62,38721
+"Iowa",63,37069
+"Iowa",64,35161
+"Iowa",65,33741
+"Iowa",66,32838
+"Iowa",67,34184
+"Iowa",68,24622
+"Iowa",69,24317
+"Iowa",70,23888
+"Iowa",71,24603
+"Iowa",72,21674
+"Iowa",73,20535
+"Iowa",74,19546
+"Iowa",75,18705
+"Iowa",76,18048
+"Iowa",77,17034
+"Iowa",78,16559
+"Iowa",79,15887
+"Iowa",80,14131
+"Iowa",81,13799
+"Iowa",82,13473
+"Iowa",83,12764
+"Iowa",84,12299
+"Iowa",85,78702
+"Iowa",999,3105573
+"Kansas",0,39922
+"Kansas",1,40353
+"Kansas",2,39784
+"Kansas",3,39973
+"Kansas",4,40575
+"Kansas",5,40082
+"Kansas",6,41406
+"Kansas",7,40976
+"Kansas",8,40551
+"Kansas",9,40240
+"Kansas",10,40350
+"Kansas",11,40030
+"Kansas",12,39122
+"Kansas",13,40128
+"Kansas",14,40663
+"Kansas",15,39578
+"Kansas",16,39749
+"Kansas",17,39182
+"Kansas",18,39122
+"Kansas",19,41910
+"Kansas",20,43873
+"Kansas",21,43293
+"Kansas",22,44391
+"Kansas",23,42786
+"Kansas",24,39131
+"Kansas",25,37369
+"Kansas",26,36465
+"Kansas",27,36400
+"Kansas",28,37755
+"Kansas",29,38283
+"Kansas",30,37843
+"Kansas",31,38650
+"Kansas",32,38919
+"Kansas",33,38464
+"Kansas",34,38918
+"Kansas",35,36015
+"Kansas",36,34747
+"Kansas",37,34377
+"Kansas",38,33179
+"Kansas",39,33440
+"Kansas",40,31795
+"Kansas",41,32063
+"Kansas",42,33138
+"Kansas",43,35315
+"Kansas",44,35586
+"Kansas",45,33844
+"Kansas",46,32481
+"Kansas",47,32928
+"Kansas",48,33947
+"Kansas",49,36305
+"Kansas",50,38156
+"Kansas",51,39109
+"Kansas",52,39652
+"Kansas",53,40581
+"Kansas",54,40515
+"Kansas",55,39367
+"Kansas",56,39366
+"Kansas",57,39691
+"Kansas",58,38110
+"Kansas",59,37904
+"Kansas",60,36381
+"Kansas",61,34889
+"Kansas",62,33483
+"Kansas",63,32407
+"Kansas",64,30795
+"Kansas",65,29562
+"Kansas",66,28728
+"Kansas",67,30153
+"Kansas",68,21531
+"Kansas",69,21367
+"Kansas",70,21187
+"Kansas",71,21310
+"Kansas",72,18553
+"Kansas",73,17010
+"Kansas",74,16182
+"Kansas",75,15450
+"Kansas",76,14999
+"Kansas",77,13924
+"Kansas",78,13394
+"Kansas",79,13003
+"Kansas",80,11944
+"Kansas",81,11518
+"Kansas",82,11031
+"Kansas",83,10546
+"Kansas",84,10240
+"Kansas",85,63827
+"Kansas",999,2881261
+"Kentucky",0,55075
+"Kentucky",1,55600
+"Kentucky",2,55238
+"Kentucky",3,55082
+"Kentucky",4,55238
+"Kentucky",5,54744
+"Kentucky",6,57008
+"Kentucky",7,57198
+"Kentucky",8,56687
+"Kentucky",9,56343
+"Kentucky",10,56647
+"Kentucky",11,56053
+"Kentucky",12,55523
+"Kentucky",13,57340
+"Kentucky",14,58182
+"Kentucky",15,57279
+"Kentucky",16,56741
+"Kentucky",17,56636
+"Kentucky",18,55826
+"Kentucky",19,57165
+"Kentucky",20,58909
+"Kentucky",21,60048
+"Kentucky",22,62719
+"Kentucky",23,65127
+"Kentucky",24,63641
+"Kentucky",25,58936
+"Kentucky",26,55710
+"Kentucky",27,53429
+"Kentucky",28,54192
+"Kentucky",29,54400
+"Kentucky",30,54423
+"Kentucky",31,55998
+"Kentucky",32,55809
+"Kentucky",33,57057
+"Kentucky",34,58367
+"Kentucky",35,55425
+"Kentucky",36,55170
+"Kentucky",37,54709
+"Kentucky",38,52895
+"Kentucky",39,54393
+"Kentucky",40,52804
+"Kentucky",41,54009
+"Kentucky",42,57454
+"Kentucky",43,60608
+"Kentucky",44,59816
+"Kentucky",45,57147
+"Kentucky",46,56303
+"Kentucky",47,56785
+"Kentucky",48,57969
+"Kentucky",49,62537
+"Kentucky",50,63501
+"Kentucky",51,63781
+"Kentucky",52,63328
+"Kentucky",53,64041
+"Kentucky",54,64422
+"Kentucky",55,62713
+"Kentucky",56,62931
+"Kentucky",57,62059
+"Kentucky",58,59892
+"Kentucky",59,59999
+"Kentucky",60,57976
+"Kentucky",61,55230
+"Kentucky",62,54063
+"Kentucky",63,52141
+"Kentucky",64,51035
+"Kentucky",65,50143
+"Kentucky",66,49133
+"Kentucky",67,51505
+"Kentucky",68,36990
+"Kentucky",69,36519
+"Kentucky",70,35514
+"Kentucky",71,36213
+"Kentucky",72,31681
+"Kentucky",73,29613
+"Kentucky",74,28076
+"Kentucky",75,26267
+"Kentucky",76,25023
+"Kentucky",77,21971
+"Kentucky",78,21097
+"Kentucky",79,20035
+"Kentucky",80,17934
+"Kentucky",81,16854
+"Kentucky",82,15702
+"Kentucky",83,14482
+"Kentucky",84,13867
+"Kentucky",85,75895
+"Kentucky",999,4394020
+"Louisiana",0,61601
+"Louisiana",1,61670
+"Louisiana",2,61775
+"Louisiana",3,61750
+"Louisiana",4,61838
+"Louisiana",5,62019
+"Louisiana",6,63957
+"Louisiana",7,64117
+"Louisiana",8,62346
+"Louisiana",9,61431
+"Louisiana",10,61150
+"Louisiana",11,60562
+"Louisiana",12,60248
+"Louisiana",13,62117
+"Louisiana",14,63452
+"Louisiana",15,61959
+"Louisiana",16,61179
+"Louisiana",17,60321
+"Louisiana",18,58335
+"Louisiana",19,58026
+"Louisiana",20,62209
+"Louisiana",21,65223
+"Louisiana",22,69714
+"Louisiana",23,74287
+"Louisiana",24,73419
+"Louisiana",25,69529
+"Louisiana",26,66000
+"Louisiana",27,65506
+"Louisiana",28,66413
+"Louisiana",29,67490
+"Louisiana",30,65688
+"Louisiana",31,65962
+"Louisiana",32,65743
+"Louisiana",33,64469
+"Louisiana",34,65046
+"Louisiana",35,59689
+"Louisiana",36,58354
+"Louisiana",37,57187
+"Louisiana",38,54393
+"Louisiana",39,54049
+"Louisiana",40,52327
+"Louisiana",41,53224
+"Louisiana",42,55622
+"Louisiana",43,58298
+"Louisiana",44,58209
+"Louisiana",45,56375
+"Louisiana",46,56078
+"Louisiana",47,56612
+"Louisiana",48,57913
+"Louisiana",49,62126
+"Louisiana",50,63481
+"Louisiana",51,63728
+"Louisiana",52,63870
+"Louisiana",53,65369
+"Louisiana",54,66620
+"Louisiana",55,64749
+"Louisiana",56,63900
+"Louisiana",57,64113
+"Louisiana",58,62036
+"Louisiana",59,61844
+"Louisiana",60,58965
+"Louisiana",61,55688
+"Louisiana",62,53804
+"Louisiana",63,52360
+"Louisiana",64,50356
+"Louisiana",65,48407
+"Louisiana",66,47173
+"Louisiana",67,49326
+"Louisiana",68,35851
+"Louisiana",69,35664
+"Louisiana",70,34426
+"Louisiana",71,34625
+"Louisiana",72,30455
+"Louisiana",73,28082
+"Louisiana",74,26723
+"Louisiana",75,24759
+"Louisiana",76,23765
+"Louisiana",77,21540
+"Louisiana",78,20532
+"Louisiana",79,19572
+"Louisiana",80,17341
+"Louisiana",81,16559
+"Louisiana",82,15682
+"Louisiana",83,14526
+"Louisiana",84,13460
+"Louisiana",85,74426
+"Louisiana",999,4630784
+"Maine",0,12709
+"Maine",1,12872
+"Maine",2,13051
+"Maine",3,12909
+"Maine",4,13238
+"Maine",5,13557
+"Maine",6,14034
+"Maine",7,14275
+"Maine",8,14541
+"Maine",9,14774
+"Maine",10,14772
+"Maine",11,14630
+"Maine",12,14735
+"Maine",13,15192
+"Maine",14,15615
+"Maine",15,15759
+"Maine",16,16066
+"Maine",17,16248
+"Maine",18,16807
+"Maine",19,16965
+"Maine",20,16542
+"Maine",21,16107
+"Maine",22,15544
+"Maine",23,14990
+"Maine",24,15433
+"Maine",25,15438
+"Maine",26,15666
+"Maine",27,15591
+"Maine",28,15525
+"Maine",29,15359
+"Maine",30,14711
+"Maine",31,14817
+"Maine",32,14899
+"Maine",33,15065
+"Maine",34,15028
+"Maine",35,14686
+"Maine",36,14586
+"Maine",37,14241
+"Maine",38,14107
+"Maine",39,14791
+"Maine",40,14704
+"Maine",41,15364
+"Maine",42,16645
+"Maine",43,17906
+"Maine",44,18023
+"Maine",45,17568
+"Maine",46,17810
+"Maine",47,18340
+"Maine",48,18707
+"Maine",49,19854
+"Maine",50,20901
+"Maine",51,21305
+"Maine",52,21620
+"Maine",53,22132
+"Maine",54,22082
+"Maine",55,22014
+"Maine",56,22013
+"Maine",57,22001
+"Maine",58,21180
+"Maine",59,20950
+"Maine",60,20861
+"Maine",61,20231
+"Maine",62,19666
+"Maine",63,18882
+"Maine",64,18559
+"Maine",65,18310
+"Maine",66,18329
+"Maine",67,19194
+"Maine",68,13346
+"Maine",69,13177
+"Maine",70,13246
+"Maine",71,13509
+"Maine",72,11536
+"Maine",73,10215
+"Maine",74,9514
+"Maine",75,9014
+"Maine",76,8684
+"Maine",77,8042
+"Maine",78,7745
+"Maine",79,7351
+"Maine",80,6583
+"Maine",81,6465
+"Maine",82,6293
+"Maine",83,5853
+"Maine",84,5380
+"Maine",85,31721
+"Maine",999,1328700
+"Maryland",0,73284
+"Maryland",1,73552
+"Maryland",2,73825
+"Maryland",3,75016
+"Maryland",4,74077
+"Maryland",5,73855
+"Maryland",6,75892
+"Maryland",7,75770
+"Maryland",8,75070
+"Maryland",9,74391
+"Maryland",10,74863
+"Maryland",11,74066
+"Maryland",12,74055
+"Maryland",13,76578
+"Maryland",14,77224
+"Maryland",15,76151
+"Maryland",16,76158
+"Maryland",17,76717
+"Maryland",18,79703
+"Maryland",19,77624
+"Maryland",20,77907
+"Maryland",21,79206
+"Maryland",22,77788
+"Maryland",23,80249
+"Maryland",24,83676
+"Maryland",25,81995
+"Maryland",26,83335
+"Maryland",27,83088
+"Maryland",28,82545
+"Maryland",29,82988
+"Maryland",30,79955
+"Maryland",31,81170
+"Maryland",32,81291
+"Maryland",33,80107
+"Maryland",34,81675
+"Maryland",35,76550
+"Maryland",36,75094
+"Maryland",37,74082
+"Maryland",38,71557
+"Maryland",39,73420
+"Maryland",40,70523
+"Maryland",41,73132
+"Maryland",42,78198
+"Maryland",43,83179
+"Maryland",44,84799
+"Maryland",45,81349
+"Maryland",46,81572
+"Maryland",47,82525
+"Maryland",48,84834
+"Maryland",49,89798
+"Maryland",50,92026
+"Maryland",51,90721
+"Maryland",52,89909
+"Maryland",53,90900
+"Maryland",54,90901
+"Maryland",55,87817
+"Maryland",56,86329
+"Maryland",57,84458
+"Maryland",58,80413
+"Maryland",59,79445
+"Maryland",60,75095
+"Maryland",61,72495
+"Maryland",62,68636
+"Maryland",63,66451
+"Maryland",64,63966
+"Maryland",65,62335
+"Maryland",66,61723
+"Maryland",67,64135
+"Maryland",68,46735
+"Maryland",69,45836
+"Maryland",70,44192
+"Maryland",71,45060
+"Maryland",72,39400
+"Maryland",73,35216
+"Maryland",74,32709
+"Maryland",75,30626
+"Maryland",76,29194
+"Maryland",77,26478
+"Maryland",78,25087
+"Maryland",79,23772
+"Maryland",80,21534
+"Maryland",81,21111
+"Maryland",82,19866
+"Maryland",83,18615
+"Maryland",84,17628
+"Maryland",85,111008
+"Maryland",999,5947280
+"Massachusetts",0,73200
+"Massachusetts",1,73225
+"Massachusetts",2,72928
+"Massachusetts",3,74279
+"Massachusetts",4,72423
+"Massachusetts",5,72560
+"Massachusetts",6,75291
+"Massachusetts",7,75699
+"Massachusetts",8,75766
+"Massachusetts",9,77006
+"Massachusetts",10,78351
+"Massachusetts",11,78865
+"Massachusetts",12,78514
+"Massachusetts",13,80492
+"Massachusetts",14,81941
+"Massachusetts",15,82203
+"Massachusetts",16,83033
+"Massachusetts",17,84692
+"Massachusetts",18,98829
+"Massachusetts",19,108391
+"Massachusetts",20,104756
+"Massachusetts",21,101938
+"Massachusetts",22,97518
+"Massachusetts",23,91235
+"Massachusetts",24,95114
+"Massachusetts",25,95296
+"Massachusetts",26,96356
+"Massachusetts",27,97320
+"Massachusetts",28,96574
+"Massachusetts",29,95759
+"Massachusetts",30,91228
+"Massachusetts",31,90606
+"Massachusetts",32,89320
+"Massachusetts",33,87083
+"Massachusetts",34,88198
+"Massachusetts",35,83789
+"Massachusetts",36,81388
+"Massachusetts",37,79770
+"Massachusetts",38,77950
+"Massachusetts",39,81197
+"Massachusetts",40,79036
+"Massachusetts",41,80825
+"Massachusetts",42,85619
+"Massachusetts",43,91917
+"Massachusetts",44,94748
+"Massachusetts",45,91609
+"Massachusetts",46,92022
+"Massachusetts",47,93572
+"Massachusetts",48,96167
+"Massachusetts",49,101469
+"Massachusetts",50,102935
+"Massachusetts",51,102013
+"Massachusetts",52,101513
+"Massachusetts",53,102600
+"Massachusetts",54,102167
+"Massachusetts",55,99676
+"Massachusetts",56,98676
+"Massachusetts",57,96754
+"Massachusetts",58,92815
+"Massachusetts",59,91787
+"Massachusetts",60,87639
+"Massachusetts",61,84115
+"Massachusetts",62,80392
+"Massachusetts",63,78006
+"Massachusetts",64,75396
+"Massachusetts",65,73686
+"Massachusetts",66,72393
+"Massachusetts",67,76382
+"Massachusetts",68,54843
+"Massachusetts",69,53633
+"Massachusetts",70,52413
+"Massachusetts",71,54021
+"Massachusetts",72,45793
+"Massachusetts",73,41173
+"Massachusetts",74,38459
+"Massachusetts",75,36274
+"Massachusetts",76,35055
+"Massachusetts",77,32814
+"Massachusetts",78,31142
+"Massachusetts",79,30319
+"Massachusetts",80,27595
+"Massachusetts",81,27258
+"Massachusetts",82,26347
+"Massachusetts",83,25296
+"Massachusetts",84,24147
+"Massachusetts",85,157194
+"Massachusetts",999,6739788
+"Michigan",0,112448
+"Michigan",1,113175
+"Michigan",2,113750
+"Michigan",3,115039
+"Michigan",4,115880
+"Michigan",5,116553
+"Michigan",6,120068
+"Michigan",7,122129
+"Michigan",8,122779
+"Michigan",9,123888
+"Michigan",10,126112
+"Michigan",11,125582
+"Michigan",12,126759
+"Michigan",13,131750
+"Michigan",14,134158
+"Michigan",15,133533
+"Michigan",16,134410
+"Michigan",17,135777
+"Michigan",18,137269
+"Michigan",19,135619
+"Michigan",20,141650
+"Michigan",21,146110
+"Michigan",22,147082
+"Michigan",23,150889
+"Michigan",24,144530
+"Michigan",25,129056
+"Michigan",26,122953
+"Michigan",27,117638
+"Michigan",28,118969
+"Michigan",29,119316
+"Michigan",30,114941
+"Michigan",31,117770
+"Michigan",32,118219
+"Michigan",33,118737
+"Michigan",34,121506
+"Michigan",35,115918
+"Michigan",36,113953
+"Michigan",37,112707
+"Michigan",38,109546
+"Michigan",39,113428
+"Michigan",40,112529
+"Michigan",41,116349
+"Michigan",42,124328
+"Michigan",43,133983
+"Michigan",44,135264
+"Michigan",45,128897
+"Michigan",46,127594
+"Michigan",47,130125
+"Michigan",48,132280
+"Michigan",49,139806
+"Michigan",50,144950
+"Michigan",51,145384
+"Michigan",52,146837
+"Michigan",53,149214
+"Michigan",54,150181
+"Michigan",55,148385
+"Michigan",56,150110
+"Michigan",57,149434
+"Michigan",58,143227
+"Michigan",59,141497
+"Michigan",60,136131
+"Michigan",61,130683
+"Michigan",62,126949
+"Michigan",63,122424
+"Michigan",64,117461
+"Michigan",65,113377
+"Michigan",66,110941
+"Michigan",67,115830
+"Michigan",68,83366
+"Michigan",69,81557
+"Michigan",70,81109
+"Michigan",71,84798
+"Michigan",72,73790
+"Michigan",73,65919
+"Michigan",74,61058
+"Michigan",75,57857
+"Michigan",76,54872
+"Michigan",77,50054
+"Michigan",78,48585
+"Michigan",79,46203
+"Michigan",80,40719
+"Michigan",81,39580
+"Michigan",82,37927
+"Michigan",83,36649
+"Michigan",84,35040
+"Michigan",85,210821
+"Michigan",999,9905670
+"Minnesota",0,69399
+"Minnesota",1,69915
+"Minnesota",2,69150
+"Minnesota",3,69972
+"Minnesota",4,70207
+"Minnesota",5,70441
+"Minnesota",6,72745
+"Minnesota",7,73335
+"Minnesota",8,72452
+"Minnesota",9,72529
+"Minnesota",10,73011
+"Minnesota",11,71457
+"Minnesota",12,70158
+"Minnesota",13,71586
+"Minnesota",14,72102
+"Minnesota",15,70763
+"Minnesota",16,70994
+"Minnesota",17,71610
+"Minnesota",18,70276
+"Minnesota",19,72880
+"Minnesota",20,73353
+"Minnesota",21,73838
+"Minnesota",22,75496
+"Minnesota",23,70395
+"Minnesota",24,70913
+"Minnesota",25,70491
+"Minnesota",26,71453
+"Minnesota",27,72300
+"Minnesota",28,74430
+"Minnesota",29,76764
+"Minnesota",30,74509
+"Minnesota",31,76460
+"Minnesota",32,77128
+"Minnesota",33,76287
+"Minnesota",34,76390
+"Minnesota",35,71604
+"Minnesota",36,68697
+"Minnesota",37,66666
+"Minnesota",38,64064
+"Minnesota",39,65165
+"Minnesota",40,61921
+"Minnesota",41,62383
+"Minnesota",42,65082
+"Minnesota",43,71100
+"Minnesota",44,72382
+"Minnesota",45,69733
+"Minnesota",46,67959
+"Minnesota",47,68647
+"Minnesota",48,71191
+"Minnesota",49,75577
+"Minnesota",50,78285
+"Minnesota",51,80142
+"Minnesota",52,80380
+"Minnesota",53,82922
+"Minnesota",54,83303
+"Minnesota",55,80236
+"Minnesota",56,79322
+"Minnesota",57,77502
+"Minnesota",58,74386
+"Minnesota",59,73209
+"Minnesota",60,70641
+"Minnesota",61,67949
+"Minnesota",62,66012
+"Minnesota",63,62822
+"Minnesota",64,59730
+"Minnesota",65,56642
+"Minnesota",66,54953
+"Minnesota",67,56878
+"Minnesota",68,41199
+"Minnesota",69,40775
+"Minnesota",70,39956
+"Minnesota",71,41351
+"Minnesota",72,35786
+"Minnesota",73,33062
+"Minnesota",74,31089
+"Minnesota",75,29495
+"Minnesota",76,28037
+"Minnesota",77,26015
+"Minnesota",78,24863
+"Minnesota",79,23534
+"Minnesota",80,21408
+"Minnesota",81,20991
+"Minnesota",82,20183
+"Minnesota",83,19148
+"Minnesota",84,18115
+"Minnesota",85,116662
+"Minnesota",999,5454343
+"Mississippi",0,37872
+"Mississippi",1,38086
+"Mississippi",2,39143
+"Mississippi",3,39193
+"Mississippi",4,39814
+"Mississippi",5,40630
+"Mississippi",6,42826
+"Mississippi",7,43312
+"Mississippi",8,41686
+"Mississippi",9,41087
+"Mississippi",10,40739
+"Mississippi",11,40049
+"Mississippi",12,39973
+"Mississippi",13,41720
+"Mississippi",14,42626
+"Mississippi",15,41307
+"Mississippi",16,41044
+"Mississippi",17,40161
+"Mississippi",18,40811
+"Mississippi",19,42456
+"Mississippi",20,42380
+"Mississippi",21,43640
+"Mississippi",22,45322
+"Mississippi",23,45951
+"Mississippi",24,44985
+"Mississippi",25,41250
+"Mississippi",26,38342
+"Mississippi",27,37123
+"Mississippi",28,37685
+"Mississippi",29,38489
+"Mississippi",30,37086
+"Mississippi",31,38401
+"Mississippi",32,38670
+"Mississippi",33,38944
+"Mississippi",34,39943
+"Mississippi",35,37162
+"Mississippi",36,36273
+"Mississippi",37,36573
+"Mississippi",38,34898
+"Mississippi",39,35683
+"Mississippi",40,34526
+"Mississippi",41,35803
+"Mississippi",42,37250
+"Mississippi",43,39010
+"Mississippi",44,38878
+"Mississippi",45,36533
+"Mississippi",46,35940
+"Mississippi",47,35784
+"Mississippi",48,36515
+"Mississippi",49,39475
+"Mississippi",50,40362
+"Mississippi",51,40538
+"Mississippi",52,40656
+"Mississippi",53,41075
+"Mississippi",54,41996
+"Mississippi",55,40612
+"Mississippi",56,40013
+"Mississippi",57,40510
+"Mississippi",58,39042
+"Mississippi",59,39109
+"Mississippi",60,37315
+"Mississippi",61,35247
+"Mississippi",62,34370
+"Mississippi",63,33665
+"Mississippi",64,33043
+"Mississippi",65,31669
+"Mississippi",66,31473
+"Mississippi",67,32940
+"Mississippi",68,24082
+"Mississippi",69,23841
+"Mississippi",70,23298
+"Mississippi",71,23536
+"Mississippi",72,20774
+"Mississippi",73,19242
+"Mississippi",74,18580
+"Mississippi",75,17505
+"Mississippi",76,16831
+"Mississippi",77,15094
+"Mississippi",78,14300
+"Mississippi",79,13629
+"Mississippi",80,11624
+"Mississippi",81,11142
+"Mississippi",82,10423
+"Mississippi",83,9747
+"Mississippi",84,9018
+"Mississippi",85,49635
+"Mississippi",999,2978985
+"Missouri",0,74184
+"Missouri",1,74647
+"Missouri",2,74602
+"Missouri",3,75090
+"Missouri",4,75795
+"Missouri",5,76020
+"Missouri",6,78448
+"Missouri",7,78759
+"Missouri",8,78698
+"Missouri",9,77830
+"Missouri",10,78088
+"Missouri",11,77304
+"Missouri",12,76727
+"Missouri",13,79043
+"Missouri",14,80471
+"Missouri",15,78715
+"Missouri",16,79246
+"Missouri",17,78923
+"Missouri",18,76404
+"Missouri",19,80378
+"Missouri",20,83002
+"Missouri",21,84749
+"Missouri",22,88858
+"Missouri",23,88284
+"Missouri",24,85548
+"Missouri",25,81125
+"Missouri",26,78215
+"Missouri",27,77762
+"Missouri",28,80095
+"Missouri",29,80328
+"Missouri",30,77905
+"Missouri",31,80303
+"Missouri",32,79939
+"Missouri",33,79715
+"Missouri",34,80522
+"Missouri",35,75201
+"Missouri",36,73067
+"Missouri",37,72015
+"Missouri",38,68819
+"Missouri",39,70968
+"Missouri",40,67913
+"Missouri",41,69366
+"Missouri",42,73764
+"Missouri",43,78430
+"Missouri",44,78464
+"Missouri",45,74159
+"Missouri",46,72399
+"Missouri",47,73848
+"Missouri",48,75726
+"Missouri",49,82347
+"Missouri",50,85352
+"Missouri",51,87010
+"Missouri",52,88274
+"Missouri",53,90165
+"Missouri",54,90070
+"Missouri",55,87327
+"Missouri",56,86800
+"Missouri",57,86376
+"Missouri",58,82765
+"Missouri",59,81434
+"Missouri",60,78719
+"Missouri",61,75144
+"Missouri",62,72883
+"Missouri",63,70743
+"Missouri",64,68274
+"Missouri",65,66627
+"Missouri",66,65313
+"Missouri",67,68538
+"Missouri",68,49864
+"Missouri",69,49782
+"Missouri",70,49613
+"Missouri",71,50973
+"Missouri",72,44880
+"Missouri",73,41405
+"Missouri",74,38498
+"Missouri",75,36511
+"Missouri",76,34524
+"Missouri",77,31750
+"Missouri",78,30377
+"Missouri",79,29110
+"Missouri",80,26507
+"Missouri",81,25535
+"Missouri",82,23936
+"Missouri",83,22543
+"Missouri",84,20924
+"Missouri",85,125005
+"Missouri",999,6045759
+"Montana",0,12269
+"Montana",1,12207
+"Montana",2,12147
+"Montana",3,12234
+"Montana",4,12337
+"Montana",5,12664
+"Montana",6,12847
+"Montana",7,13126
+"Montana",8,12776
+"Montana",9,12547
+"Montana",10,12424
+"Montana",11,12448
+"Montana",12,12311
+"Montana",13,12561
+"Montana",14,12381
+"Montana",15,12432
+"Montana",16,12595
+"Montana",17,12718
+"Montana",18,12518
+"Montana",19,13560
+"Montana",20,14023
+"Montana",21,14692
+"Montana",22,15497
+"Montana",23,15155
+"Montana",24,14076
+"Montana",25,12958
+"Montana",26,12559
+"Montana",27,12052
+"Montana",28,12267
+"Montana",29,12835
+"Montana",30,12806
+"Montana",31,13178
+"Montana",32,13114
+"Montana",33,12830
+"Montana",34,13001
+"Montana",35,12195
+"Montana",36,12147
+"Montana",37,11761
+"Montana",38,11077
+"Montana",39,11149
+"Montana",40,10742
+"Montana",41,10756
+"Montana",42,11193
+"Montana",43,12082
+"Montana",44,12053
+"Montana",45,11565
+"Montana",46,11186
+"Montana",47,11326
+"Montana",48,11708
+"Montana",49,12764
+"Montana",50,13481
+"Montana",51,14009
+"Montana",52,14498
+"Montana",53,15016
+"Montana",54,15359
+"Montana",55,15192
+"Montana",56,15663
+"Montana",57,15745
+"Montana",58,15494
+"Montana",59,15451
+"Montana",60,15328
+"Montana",61,15197
+"Montana",62,14626
+"Montana",63,14068
+"Montana",64,13618
+"Montana",65,13115
+"Montana",66,12680
+"Montana",67,13063
+"Montana",68,9598
+"Montana",69,9532
+"Montana",70,9284
+"Montana",71,9582
+"Montana",72,8156
+"Montana",73,7640
+"Montana",74,7085
+"Montana",75,6606
+"Montana",76,6165
+"Montana",77,5863
+"Montana",78,5324
+"Montana",79,5073
+"Montana",80,4494
+"Montana",81,4230
+"Montana",82,4093
+"Montana",83,3860
+"Montana",84,3727
+"Montana",85,21985
+"Montana",999,1019749
+"Nebraska",0,25903
+"Nebraska",1,26012
+"Nebraska",2,26007
+"Nebraska",3,25955
+"Nebraska",4,26301
+"Nebraska",5,26397
+"Nebraska",6,26861
+"Nebraska",7,26748
+"Nebraska",8,26575
+"Nebraska",9,26383
+"Nebraska",10,26409
+"Nebraska",11,25905
+"Nebraska",12,25435
+"Nebraska",13,25655
+"Nebraska",14,25582
+"Nebraska",15,24997
+"Nebraska",16,24761
+"Nebraska",17,24723
+"Nebraska",18,25014
+"Nebraska",19,28138
+"Nebraska",20,28618
+"Nebraska",21,28530
+"Nebraska",22,28583
+"Nebraska",23,26317
+"Nebraska",24,24760
+"Nebraska",25,23484
+"Nebraska",26,23889
+"Nebraska",27,23929
+"Nebraska",28,24987
+"Nebraska",29,25729
+"Nebraska",30,25152
+"Nebraska",31,25812
+"Nebraska",32,25938
+"Nebraska",33,25536
+"Nebraska",34,25715
+"Nebraska",35,23620
+"Nebraska",36,23116
+"Nebraska",37,22609
+"Nebraska",38,21652
+"Nebraska",39,22492
+"Nebraska",40,21055
+"Nebraska",41,21072
+"Nebraska",42,22141
+"Nebraska",43,22852
+"Nebraska",44,23040
+"Nebraska",45,21869
+"Nebraska",46,21178
+"Nebraska",47,21424
+"Nebraska",48,21914
+"Nebraska",49,23711
+"Nebraska",50,24478
+"Nebraska",51,25329
+"Nebraska",52,25635
+"Nebraska",53,26245
+"Nebraska",54,26741
+"Nebraska",55,25689
+"Nebraska",56,25444
+"Nebraska",57,25058
+"Nebraska",58,24580
+"Nebraska",59,24383
+"Nebraska",60,23563
+"Nebraska",61,22482
+"Nebraska",62,22155
+"Nebraska",63,21152
+"Nebraska",64,20365
+"Nebraska",65,19368
+"Nebraska",66,18642
+"Nebraska",67,19122
+"Nebraska",68,13637
+"Nebraska",69,13759
+"Nebraska",70,13568
+"Nebraska",71,13698
+"Nebraska",72,11976
+"Nebraska",73,10998
+"Nebraska",74,10576
+"Nebraska",75,10171
+"Nebraska",76,9890
+"Nebraska",77,9405
+"Nebraska",78,8798
+"Nebraska",79,8655
+"Nebraska",80,7782
+"Nebraska",81,7634
+"Nebraska",82,7524
+"Nebraska",83,7241
+"Nebraska",84,6693
+"Nebraska",85,41852
+"Nebraska",999,1874773
+"Nevada",0,34862
+"Nevada",1,34778
+"Nevada",2,34452
+"Nevada",3,35645
+"Nevada",4,36660
+"Nevada",5,37009
+"Nevada",6,38832
+"Nevada",7,38679
+"Nevada",8,37803
+"Nevada",9,37324
+"Nevada",10,37599
+"Nevada",11,36824
+"Nevada",12,36459
+"Nevada",13,37296
+"Nevada",14,37837
+"Nevada",15,37057
+"Nevada",16,37078
+"Nevada",17,37031
+"Nevada",18,34084
+"Nevada",19,31306
+"Nevada",20,32251
+"Nevada",21,33971
+"Nevada",22,36486
+"Nevada",23,40942
+"Nevada",24,42887
+"Nevada",25,41578
+"Nevada",26,40392
+"Nevada",27,39742
+"Nevada",28,39669
+"Nevada",29,40291
+"Nevada",30,38802
+"Nevada",31,39986
+"Nevada",32,40288
+"Nevada",33,39600
+"Nevada",34,40550
+"Nevada",35,38289
+"Nevada",36,37328
+"Nevada",37,37470
+"Nevada",38,36121
+"Nevada",39,37112
+"Nevada",40,36631
+"Nevada",41,36975
+"Nevada",42,38506
+"Nevada",43,40499
+"Nevada",44,41403
+"Nevada",45,38756
+"Nevada",46,37429
+"Nevada",47,36968
+"Nevada",48,37308
+"Nevada",49,39227
+"Nevada",50,39649
+"Nevada",51,38925
+"Nevada",52,38144
+"Nevada",53,38528
+"Nevada",54,38501
+"Nevada",55,36873
+"Nevada",56,36692
+"Nevada",57,36517
+"Nevada",58,35991
+"Nevada",59,35667
+"Nevada",60,34452
+"Nevada",61,33313
+"Nevada",62,32251
+"Nevada",63,31674
+"Nevada",64,32087
+"Nevada",65,31294
+"Nevada",66,31994
+"Nevada",67,33047
+"Nevada",68,24863
+"Nevada",69,24270
+"Nevada",70,23929
+"Nevada",71,23865
+"Nevada",72,20941
+"Nevada",73,18849
+"Nevada",74,17911
+"Nevada",75,16339
+"Nevada",76,15207
+"Nevada",77,13710
+"Nevada",78,12570
+"Nevada",79,11610
+"Nevada",80,10200
+"Nevada",81,9500
+"Nevada",82,8665
+"Nevada",83,7928
+"Nevada",84,7391
+"Nevada",85,37764
+"Nevada",999,2827183
+"New Hampshire",0,12561
+"New Hampshire",1,12765
+"New Hampshire",2,12703
+"New Hampshire",3,13391
+"New Hampshire",4,13125
+"New Hampshire",5,13512
+"New Hampshire",6,14067
+"New Hampshire",7,14550
+"New Hampshire",8,14862
+"New Hampshire",9,15061
+"New Hampshire",10,15374
+"New Hampshire",11,15683
+"New Hampshire",12,15747
+"New Hampshire",13,15980
+"New Hampshire",14,16613
+"New Hampshire",15,16646
+"New Hampshire",16,17294
+"New Hampshire",17,17207
+"New Hampshire",18,18518
+"New Hampshire",19,19713
+"New Hampshire",20,19903
+"New Hampshire",21,20073
+"New Hampshire",22,18273
+"New Hampshire",23,16318
+"New Hampshire",24,15370
+"New Hampshire",25,15022
+"New Hampshire",26,15332
+"New Hampshire",27,15693
+"New Hampshire",28,16152
+"New Hampshire",29,15355
+"New Hampshire",30,14937
+"New Hampshire",31,15114
+"New Hampshire",32,15254
+"New Hampshire",33,15188
+"New Hampshire",34,15441
+"New Hampshire",35,14641
+"New Hampshire",36,14512
+"New Hampshire",37,14183
+"New Hampshire",38,14027
+"New Hampshire",39,15081
+"New Hampshire",40,14725
+"New Hampshire",41,15765
+"New Hampshire",42,17277
+"New Hampshire",43,18758
+"New Hampshire",44,19138
+"New Hampshire",45,18651
+"New Hampshire",46,18709
+"New Hampshire",47,19377
+"New Hampshire",48,19639
+"New Hampshire",49,21240
+"New Hampshire",50,22127
+"New Hampshire",51,22178
+"New Hampshire",52,22256
+"New Hampshire",53,22830
+"New Hampshire",54,22770
+"New Hampshire",55,22438
+"New Hampshire",56,22254
+"New Hampshire",57,21890
+"New Hampshire",58,20686
+"New Hampshire",59,20466
+"New Hampshire",60,19473
+"New Hampshire",61,18847
+"New Hampshire",62,17992
+"New Hampshire",63,17103
+"New Hampshire",64,16529
+"New Hampshire",65,16439
+"New Hampshire",66,16554
+"New Hampshire",67,17242
+"New Hampshire",68,11956
+"New Hampshire",69,11532
+"New Hampshire",70,11366
+"New Hampshire",71,11818
+"New Hampshire",72,10049
+"New Hampshire",73,8735
+"New Hampshire",74,8174
+"New Hampshire",75,7575
+"New Hampshire",76,7096
+"New Hampshire",77,6614
+"New Hampshire",78,6420
+"New Hampshire",79,6140
+"New Hampshire",80,5507
+"New Hampshire",81,5433
+"New Hampshire",82,5153
+"New Hampshire",83,4848
+"New Hampshire",84,4537
+"New Hampshire",85,27875
+"New Hampshire",999,1325422
+"New Jersey",0,104144
+"New Jersey",1,105577
+"New Jersey",2,106408
+"New Jersey",3,109009
+"New Jersey",4,107381
+"New Jersey",5,106407
+"New Jersey",6,109721
+"New Jersey",7,111430
+"New Jersey",8,111174
+"New Jersey",9,112117
+"New Jersey",10,113962
+"New Jersey",11,113445
+"New Jersey",12,113003
+"New Jersey",13,115537
+"New Jersey",14,117977
+"New Jersey",15,117071
+"New Jersey",16,118292
+"New Jersey",17,119417
+"New Jersey",18,114004
+"New Jersey",19,107624
+"New Jersey",20,112108
+"New Jersey",21,116234
+"New Jersey",22,115357
+"New Jersey",23,113813
+"New Jersey",24,115709
+"New Jersey",25,111266
+"New Jersey",26,111024
+"New Jersey",27,113643
+"New Jersey",28,114840
+"New Jersey",29,115702
+"New Jersey",30,112911
+"New Jersey",31,114761
+"New Jersey",32,115096
+"New Jersey",33,115006
+"New Jersey",34,119898
+"New Jersey",35,114024
+"New Jersey",36,112985
+"New Jersey",37,112823
+"New Jersey",38,110960
+"New Jersey",39,115263
+"New Jersey",40,111971
+"New Jersey",41,114408
+"New Jersey",42,119627
+"New Jersey",43,127401
+"New Jersey",44,131814
+"New Jersey",45,126310
+"New Jersey",46,126199
+"New Jersey",47,127332
+"New Jersey",48,131397
+"New Jersey",49,137760
+"New Jersey",50,139337
+"New Jersey",51,137840
+"New Jersey",52,136765
+"New Jersey",53,137631
+"New Jersey",54,137932
+"New Jersey",55,133619
+"New Jersey",56,131265
+"New Jersey",57,128663
+"New Jersey",58,122957
+"New Jersey",59,120369
+"New Jersey",60,112936
+"New Jersey",61,107555
+"New Jersey",62,102245
+"New Jersey",63,98565
+"New Jersey",64,95984
+"New Jersey",65,91781
+"New Jersey",66,91313
+"New Jersey",67,97172
+"New Jersey",68,72317
+"New Jersey",69,69552
+"New Jersey",70,66877
+"New Jersey",71,70887
+"New Jersey",72,61232
+"New Jersey",73,54321
+"New Jersey",74,51639
+"New Jersey",75,48925
+"New Jersey",76,46984
+"New Jersey",77,43583
+"New Jersey",78,41522
+"New Jersey",79,39712
+"New Jersey",80,36217
+"New Jersey",81,35478
+"New Jersey",82,34525
+"New Jersey",83,32946
+"New Jersey",84,31560
+"New Jersey",85,194960
+"New Jersey",999,8928508
+"New Mexico",0,26870
+"New Mexico",1,27192
+"New Mexico",2,27301
+"New Mexico",3,27786
+"New Mexico",4,27984
+"New Mexico",5,27571
+"New Mexico",6,29027
+"New Mexico",7,28795
+"New Mexico",8,28496
+"New Mexico",9,28468
+"New Mexico",10,28203
+"New Mexico",11,27556
+"New Mexico",12,27754
+"New Mexico",13,28010
+"New Mexico",14,28234
+"New Mexico",15,27716
+"New Mexico",16,27610
+"New Mexico",17,27376
+"New Mexico",18,27364
+"New Mexico",19,27869
+"New Mexico",20,28622
+"New Mexico",21,29486
+"New Mexico",22,30418
+"New Mexico",23,30627
+"New Mexico",24,29967
+"New Mexico",25,28115
+"New Mexico",26,27517
+"New Mexico",27,27225
+"New Mexico",28,27355
+"New Mexico",29,27895
+"New Mexico",30,27311
+"New Mexico",31,27409
+"New Mexico",32,27413
+"New Mexico",33,26696
+"New Mexico",34,27160
+"New Mexico",35,25218
+"New Mexico",36,24257
+"New Mexico",37,23970
+"New Mexico",38,23618
+"New Mexico",39,23716
+"New Mexico",40,22782
+"New Mexico",41,23150
+"New Mexico",42,23952
+"New Mexico",43,24736
+"New Mexico",44,25295
+"New Mexico",45,24197
+"New Mexico",46,23492
+"New Mexico",47,23677
+"New Mexico",48,24040
+"New Mexico",49,26281
+"New Mexico",50,26956
+"New Mexico",51,27788
+"New Mexico",52,28526
+"New Mexico",53,29234
+"New Mexico",54,29353
+"New Mexico",55,28193
+"New Mexico",56,28353
+"New Mexico",57,28338
+"New Mexico",58,27880
+"New Mexico",59,27861
+"New Mexico",60,26896
+"New Mexico",61,26494
+"New Mexico",62,25454
+"New Mexico",63,25016
+"New Mexico",64,24886
+"New Mexico",65,24108
+"New Mexico",66,23822
+"New Mexico",67,24387
+"New Mexico",68,18432
+"New Mexico",69,18140
+"New Mexico",70,17484
+"New Mexico",71,17433
+"New Mexico",72,15425
+"New Mexico",73,14229
+"New Mexico",74,13380
+"New Mexico",75,12767
+"New Mexico",76,11925
+"New Mexico",77,11049
+"New Mexico",78,10444
+"New Mexico",79,9873
+"New Mexico",80,8661
+"New Mexico",81,8060
+"New Mexico",82,7768
+"New Mexico",83,7168
+"New Mexico",84,6927
+"New Mexico",85,37373
+"New Mexico",999,2072862
+"New York",0,239804
+"New York",1,238674
+"New York",2,236580
+"New York",3,239574
+"New York",4,229959
+"New York",5,224161
+"New York",6,229386
+"New York",7,229297
+"New York",8,228161
+"New York",9,229158
+"New York",10,231483
+"New York",11,231546
+"New York",12,231472
+"New York",13,236825
+"New York",14,242279
+"New York",15,240576
+"New York",16,242974
+"New York",17,246995
+"New York",18,264080
+"New York",19,267138
+"New York",20,275985
+"New York",21,280724
+"New York",22,279483
+"New York",23,294078
+"New York",24,304970
+"New York",25,297674
+"New York",26,295943
+"New York",27,291217
+"New York",28,290449
+"New York",29,291785
+"New York",30,276351
+"New York",31,277091
+"New York",32,274014
+"New York",33,265920
+"New York",34,276159
+"New York",35,255975
+"New York",36,249349
+"New York",37,246657
+"New York",38,237549
+"New York",39,248225
+"New York",40,236152
+"New York",41,236953
+"New York",42,247848
+"New York",43,265867
+"New York",44,278601
+"New York",45,264583
+"New York",46,261805
+"New York",47,263165
+"New York",48,271234
+"New York",49,288126
+"New York",50,289596
+"New York",51,286942
+"New York",52,282660
+"New York",53,285640
+"New York",54,293617
+"New York",55,280823
+"New York",56,276827
+"New York",57,271857
+"New York",58,261943
+"New York",59,260980
+"New York",60,245918
+"New York",61,235915
+"New York",62,226455
+"New York",63,220662
+"New York",64,218098
+"New York",65,208204
+"New York",66,202733
+"New York",67,210558
+"New York",68,157351
+"New York",69,154056
+"New York",70,146440
+"New York",71,152586
+"New York",72,133078
+"New York",73,120644
+"New York",74,116247
+"New York",75,108761
+"New York",76,105354
+"New York",77,97554
+"New York",78,92681
+"New York",79,89207
+"New York",80,80299
+"New York",81,78011
+"New York",82,74429
+"New York",83,71279
+"New York",84,69440
+"New York",85,429182
+"New York",999,19720081
+"North Carolina",0,119904
+"North Carolina",1,120678
+"North Carolina",2,120244
+"North Carolina",3,121904
+"North Carolina",4,124746
+"North Carolina",5,126215
+"North Carolina",6,129798
+"North Carolina",7,130534
+"North Carolina",8,129641
+"North Carolina",9,128707
+"North Carolina",10,129294
+"North Carolina",11,128013
+"North Carolina",12,128730
+"North Carolina",13,132432
+"North Carolina",14,133395
+"North Carolina",15,129456
+"North Carolina",16,127669
+"North Carolina",17,126179
+"North Carolina",18,129846
+"North Carolina",19,133365
+"North Carolina",20,134065
+"North Carolina",21,134896
+"North Carolina",22,136617
+"North Carolina",23,137095
+"North Carolina",24,135549
+"North Carolina",25,131491
+"North Carolina",26,126721
+"North Carolina",27,123719
+"North Carolina",28,123741
+"North Carolina",29,124449
+"North Carolina",30,120332
+"North Carolina",31,123945
+"North Carolina",32,124902
+"North Carolina",33,124784
+"North Carolina",34,128297
+"North Carolina",35,123155
+"North Carolina",36,123695
+"North Carolina",37,123333
+"North Carolina",38,120065
+"North Carolina",39,125056
+"North Carolina",40,123747
+"North Carolina",41,127836
+"North Carolina",42,134751
+"North Carolina",43,142855
+"North Carolina",44,141857
+"North Carolina",45,134040
+"North Carolina",46,130906
+"North Carolina",47,130748
+"North Carolina",48,131800
+"North Carolina",49,138256
+"North Carolina",50,140677
+"North Carolina",51,140211
+"North Carolina",52,138720
+"North Carolina",53,139262
+"North Carolina",54,139554
+"North Carolina",55,135129
+"North Carolina",56,134088
+"North Carolina",57,132928
+"North Carolina",58,128795
+"North Carolina",59,127255
+"North Carolina",60,123685
+"North Carolina",61,119672
+"North Carolina",62,116647
+"North Carolina",63,113273
+"North Carolina",64,110923
+"North Carolina",65,109595
+"North Carolina",66,110589
+"North Carolina",67,115366
+"North Carolina",68,85593
+"North Carolina",69,84326
+"North Carolina",70,81824
+"North Carolina",71,82985
+"North Carolina",72,71414
+"North Carolina",73,65456
+"North Carolina",74,60635
+"North Carolina",75,56438
+"North Carolina",76,53722
+"North Carolina",77,49174
+"North Carolina",78,47172
+"North Carolina",79,45071
+"North Carolina",80,39490
+"North Carolina",81,37567
+"North Carolina",82,35134
+"North Carolina",83,31609
+"North Carolina",84,29820
+"North Carolina",85,170382
+"North Carolina",999,9837634
+"North Dakota",0,10788
+"North Dakota",1,10400
+"North Dakota",2,10239
+"North Dakota",3,9915
+"North Dakota",4,9674
+"North Dakota",5,9798
+"North Dakota",6,9908
+"North Dakota",7,9895
+"North Dakota",8,9565
+"North Dakota",9,9227
+"North Dakota",10,8931
+"North Dakota",11,8707
+"North Dakota",12,8498
+"North Dakota",13,8425
+"North Dakota",14,8474
+"North Dakota",15,8512
+"North Dakota",16,8643
+"North Dakota",17,8928
+"North Dakota",18,9952
+"North Dakota",19,12829
+"North Dakota",20,12925
+"North Dakota",21,13497
+"North Dakota",22,14918
+"North Dakota",23,14131
+"North Dakota",24,12893
+"North Dakota",25,12053
+"North Dakota",26,10566
+"North Dakota",27,10389
+"North Dakota",28,10790
+"North Dakota",29,10627
+"North Dakota",30,10342
+"North Dakota",31,10414
+"North Dakota",32,10375
+"North Dakota",33,9802
+"North Dakota",34,9713
+"North Dakota",35,9074
+"North Dakota",36,8862
+"North Dakota",37,8302
+"North Dakota",38,7942
+"North Dakota",39,7877
+"North Dakota",40,7523
+"North Dakota",41,7432
+"North Dakota",42,7706
+"North Dakota",43,8076
+"North Dakota",44,8144
+"North Dakota",45,7944
+"North Dakota",46,7770
+"North Dakota",47,7806
+"North Dakota",48,8103
+"North Dakota",49,8735
+"North Dakota",50,9176
+"North Dakota",51,9630
+"North Dakota",52,9784
+"North Dakota",53,10229
+"North Dakota",54,10357
+"North Dakota",55,10137
+"North Dakota",56,10141
+"North Dakota",57,9964
+"North Dakota",58,9804
+"North Dakota",59,9712
+"North Dakota",60,9257
+"North Dakota",61,9015
+"North Dakota",62,8666
+"North Dakota",63,7998
+"North Dakota",64,7524
+"North Dakota",65,7163
+"North Dakota",66,6831
+"North Dakota",67,7060
+"North Dakota",68,5280
+"North Dakota",69,5248
+"North Dakota",70,5134
+"North Dakota",71,5076
+"North Dakota",72,4425
+"North Dakota",73,4114
+"North Dakota",74,3878
+"North Dakota",75,3782
+"North Dakota",76,3725
+"North Dakota",77,3625
+"North Dakota",78,3489
+"North Dakota",79,3413
+"North Dakota",80,3193
+"North Dakota",81,3091
+"North Dakota",82,2944
+"North Dakota",83,2843
+"North Dakota",84,2725
+"North Dakota",85,17959
+"North Dakota",999,732431
+"Ohio",0,137250
+"Ohio",1,138067
+"Ohio",2,137573
+"Ohio",3,138135
+"Ohio",4,139551
+"Ohio",5,141933
+"Ohio",6,145353
+"Ohio",7,147075
+"Ohio",8,147378
+"Ohio",9,146395
+"Ohio",10,148835
+"Ohio",11,147792
+"Ohio",12,148944
+"Ohio",13,154075
+"Ohio",14,156493
+"Ohio",15,154084
+"Ohio",16,155156
+"Ohio",17,154215
+"Ohio",18,152297
+"Ohio",19,156623
+"Ohio",20,155215
+"Ohio",21,156048
+"Ohio",22,159561
+"Ohio",23,158499
+"Ohio",24,159854
+"Ohio",25,154338
+"Ohio",26,151510
+"Ohio",27,146822
+"Ohio",28,146516
+"Ohio",29,147370
+"Ohio",30,140126
+"Ohio",31,142735
+"Ohio",32,144099
+"Ohio",33,145030
+"Ohio",34,147802
+"Ohio",35,139950
+"Ohio",36,136497
+"Ohio",37,134607
+"Ohio",38,131021
+"Ohio",39,135926
+"Ohio",40,131998
+"Ohio",41,135847
+"Ohio",42,145166
+"Ohio",43,156227
+"Ohio",44,157012
+"Ohio",45,148916
+"Ohio",46,146292
+"Ohio",47,148157
+"Ohio",48,151017
+"Ohio",49,160945
+"Ohio",50,165432
+"Ohio",51,165588
+"Ohio",52,168432
+"Ohio",53,172712
+"Ohio",54,174482
+"Ohio",55,172479
+"Ohio",56,174592
+"Ohio",57,172218
+"Ohio",58,165331
+"Ohio",59,163589
+"Ohio",60,156450
+"Ohio",61,150315
+"Ohio",62,145514
+"Ohio",63,140255
+"Ohio",64,135454
+"Ohio",65,131852
+"Ohio",66,129949
+"Ohio",67,136969
+"Ohio",68,94839
+"Ohio",69,91455
+"Ohio",70,89985
+"Ohio",71,96161
+"Ohio",72,85063
+"Ohio",73,77202
+"Ohio",74,72283
+"Ohio",75,69175
+"Ohio",76,66855
+"Ohio",77,61606
+"Ohio",78,58568
+"Ohio",79,56114
+"Ohio",80,49707
+"Ohio",81,48046
+"Ohio",82,46046
+"Ohio",83,44345
+"Ohio",84,42020
+"Ohio",85,250929
+"Ohio",999,11584339
+"Oklahoma",0,52631
+"Oklahoma",1,52975
+"Oklahoma",2,52808
+"Oklahoma",3,53484
+"Oklahoma",4,53576
+"Oklahoma",5,53617
+"Oklahoma",6,54556
+"Oklahoma",7,54550
+"Oklahoma",8,53517
+"Oklahoma",9,53409
+"Oklahoma",10,53216
+"Oklahoma",11,52355
+"Oklahoma",12,52132
+"Oklahoma",13,52265
+"Oklahoma",14,52710
+"Oklahoma",15,52258
+"Oklahoma",16,51915
+"Oklahoma",17,50677
+"Oklahoma",18,49256
+"Oklahoma",19,51610
+"Oklahoma",20,53397
+"Oklahoma",21,54484
+"Oklahoma",22,58460
+"Oklahoma",23,59533
+"Oklahoma",24,57857
+"Oklahoma",25,53927
+"Oklahoma",26,51244
+"Oklahoma",27,50424
+"Oklahoma",28,51905
+"Oklahoma",29,53330
+"Oklahoma",30,52107
+"Oklahoma",31,53858
+"Oklahoma",32,53256
+"Oklahoma",33,52080
+"Oklahoma",34,53097
+"Oklahoma",35,48829
+"Oklahoma",36,47260
+"Oklahoma",37,46846
+"Oklahoma",38,45177
+"Oklahoma",39,46900
+"Oklahoma",40,44344
+"Oklahoma",41,44941
+"Oklahoma",42,46275
+"Oklahoma",43,48370
+"Oklahoma",44,49072
+"Oklahoma",45,45801
+"Oklahoma",46,44251
+"Oklahoma",47,43867
+"Oklahoma",48,44613
+"Oklahoma",49,48986
+"Oklahoma",50,50668
+"Oklahoma",51,51882
+"Oklahoma",52,52258
+"Oklahoma",53,53186
+"Oklahoma",54,54271
+"Oklahoma",55,51751
+"Oklahoma",56,51491
+"Oklahoma",57,51440
+"Oklahoma",58,49837
+"Oklahoma",59,49715
+"Oklahoma",60,47841
+"Oklahoma",61,45714
+"Oklahoma",62,43682
+"Oklahoma",63,42333
+"Oklahoma",64,41366
+"Oklahoma",65,40168
+"Oklahoma",66,39641
+"Oklahoma",67,41915
+"Oklahoma",68,31040
+"Oklahoma",69,31503
+"Oklahoma",70,31079
+"Oklahoma",71,30702
+"Oklahoma",72,27180
+"Oklahoma",73,25162
+"Oklahoma",74,24308
+"Oklahoma",75,22686
+"Oklahoma",76,21418
+"Oklahoma",77,19572
+"Oklahoma",78,18604
+"Oklahoma",79,18290
+"Oklahoma",80,16311
+"Oklahoma",81,15294
+"Oklahoma",82,14147
+"Oklahoma",83,13040
+"Oklahoma",84,12379
+"Oklahoma",85,68092
+"Oklahoma",999,3857974
+"Oregon",0,45383
+"Oregon",1,45482
+"Oregon",2,45662
+"Oregon",3,46333
+"Oregon",4,46603
+"Oregon",5,47257
+"Oregon",6,48680
+"Oregon",7,48946
+"Oregon",8,48227
+"Oregon",9,47774
+"Oregon",10,47989
+"Oregon",11,47557
+"Oregon",12,47138
+"Oregon",13,48253
+"Oregon",14,49391
+"Oregon",15,48883
+"Oregon",16,48818
+"Oregon",17,49646
+"Oregon",18,48714
+"Oregon",19,48290
+"Oregon",20,49721
+"Oregon",21,51008
+"Oregon",22,53683
+"Oregon",23,56593
+"Oregon",24,56362
+"Oregon",25,54553
+"Oregon",26,52356
+"Oregon",27,51768
+"Oregon",28,53240
+"Oregon",29,54098
+"Oregon",30,53844
+"Oregon",31,54980
+"Oregon",32,55691
+"Oregon",33,55591
+"Oregon",34,56634
+"Oregon",35,53137
+"Oregon",36,52669
+"Oregon",37,52114
+"Oregon",38,50351
+"Oregon",39,51182
+"Oregon",40,49032
+"Oregon",41,48647
+"Oregon",42,50464
+"Oregon",43,53639
+"Oregon",44,54504
+"Oregon",45,51329
+"Oregon",46,48555
+"Oregon",47,47721
+"Oregon",48,48020
+"Oregon",49,50185
+"Oregon",50,51427
+"Oregon",51,52284
+"Oregon",52,52934
+"Oregon",53,54417
+"Oregon",54,55112
+"Oregon",55,53752
+"Oregon",56,54628
+"Oregon",57,55814
+"Oregon",58,54673
+"Oregon",59,55701
+"Oregon",60,55642
+"Oregon",61,55012
+"Oregon",62,53150
+"Oregon",63,51586
+"Oregon",64,50663
+"Oregon",65,49063
+"Oregon",66,48191
+"Oregon",67,50450
+"Oregon",68,36462
+"Oregon",69,36038
+"Oregon",70,35057
+"Oregon",71,35296
+"Oregon",72,30332
+"Oregon",73,27418
+"Oregon",74,25701
+"Oregon",75,23813
+"Oregon",76,22231
+"Oregon",77,20506
+"Oregon",78,19016
+"Oregon",79,17846
+"Oregon",80,15961
+"Oregon",81,15242
+"Oregon",82,14557
+"Oregon",83,14008
+"Oregon",84,13159
+"Oregon",85,83540
+"Oregon",999,3967379
+"Pennsylvania",0,141898
+"Pennsylvania",1,143046
+"Pennsylvania",2,143081
+"Pennsylvania",3,144165
+"Pennsylvania",4,142894
+"Pennsylvania",5,143945
+"Pennsylvania",6,148173
+"Pennsylvania",7,148922
+"Pennsylvania",8,149402
+"Pennsylvania",9,149241
+"Pennsylvania",10,151442
+"Pennsylvania",11,150855
+"Pennsylvania",12,151179
+"Pennsylvania",13,155202
+"Pennsylvania",14,159350
+"Pennsylvania",15,157791
+"Pennsylvania",16,159203
+"Pennsylvania",17,161104
+"Pennsylvania",18,172897
+"Pennsylvania",19,184687
+"Pennsylvania",20,179090
+"Pennsylvania",21,176297
+"Pennsylvania",22,170941
+"Pennsylvania",23,167702
+"Pennsylvania",24,174049
+"Pennsylvania",25,173047
+"Pennsylvania",26,172875
+"Pennsylvania",27,170220
+"Pennsylvania",28,166626
+"Pennsylvania",29,164656
+"Pennsylvania",30,157334
+"Pennsylvania",31,159859
+"Pennsylvania",32,158480
+"Pennsylvania",33,156312
+"Pennsylvania",34,158056
+"Pennsylvania",35,149741
+"Pennsylvania",36,146761
+"Pennsylvania",37,143962
+"Pennsylvania",38,139754
+"Pennsylvania",39,144237
+"Pennsylvania",40,141847
+"Pennsylvania",41,146523
+"Pennsylvania",42,156828
+"Pennsylvania",43,169230
+"Pennsylvania",44,171668
+"Pennsylvania",45,165962
+"Pennsylvania",46,165229
+"Pennsylvania",47,168158
+"Pennsylvania",48,172491
+"Pennsylvania",49,183166
+"Pennsylvania",50,186541
+"Pennsylvania",51,185968
+"Pennsylvania",52,188239
+"Pennsylvania",53,193404
+"Pennsylvania",54,194435
+"Pennsylvania",55,193124
+"Pennsylvania",56,194949
+"Pennsylvania",57,192417
+"Pennsylvania",58,184778
+"Pennsylvania",59,183136
+"Pennsylvania",60,176443
+"Pennsylvania",61,170618
+"Pennsylvania",62,164238
+"Pennsylvania",63,157096
+"Pennsylvania",64,150784
+"Pennsylvania",65,146488
+"Pennsylvania",66,146703
+"Pennsylvania",67,155749
+"Pennsylvania",68,109177
+"Pennsylvania",69,106179
+"Pennsylvania",70,106427
+"Pennsylvania",71,113061
+"Pennsylvania",72,97715
+"Pennsylvania",73,88281
+"Pennsylvania",74,82889
+"Pennsylvania",75,79506
+"Pennsylvania",76,77109
+"Pennsylvania",77,71569
+"Pennsylvania",78,69068
+"Pennsylvania",79,66589
+"Pennsylvania",80,59948
+"Pennsylvania",81,58752
+"Pennsylvania",82,58138
+"Pennsylvania",83,56350
+"Pennsylvania",84,53594
+"Pennsylvania",85,331229
+"Pennsylvania",999,12780269
+"Rhode Island",0,10981
+"Rhode Island",1,10891
+"Rhode Island",2,11061
+"Rhode Island",3,11038
+"Rhode Island",4,10925
+"Rhode Island",5,10942
+"Rhode Island",6,11549
+"Rhode Island",7,11539
+"Rhode Island",8,11872
+"Rhode Island",9,11900
+"Rhode Island",10,12209
+"Rhode Island",11,12048
+"Rhode Island",12,12144
+"Rhode Island",13,12219
+"Rhode Island",14,12596
+"Rhode Island",15,12684
+"Rhode Island",16,12918
+"Rhode Island",17,13336
+"Rhode Island",18,16816
+"Rhode Island",19,18733
+"Rhode Island",20,18187
+"Rhode Island",21,17439
+"Rhode Island",22,15489
+"Rhode Island",23,14773
+"Rhode Island",24,15053
+"Rhode Island",25,15022
+"Rhode Island",26,15369
+"Rhode Island",27,14274
+"Rhode Island",28,13721
+"Rhode Island",29,13555
+"Rhode Island",30,13131
+"Rhode Island",31,13015
+"Rhode Island",32,13079
+"Rhode Island",33,12891
+"Rhode Island",34,13093
+"Rhode Island",35,12320
+"Rhode Island",36,12061
+"Rhode Island",37,11632
+"Rhode Island",38,11390
+"Rhode Island",39,11945
+"Rhode Island",40,11734
+"Rhode Island",41,12021
+"Rhode Island",42,12658
+"Rhode Island",43,13775
+"Rhode Island",44,14410
+"Rhode Island",45,13906
+"Rhode Island",46,14135
+"Rhode Island",47,14390
+"Rhode Island",48,14722
+"Rhode Island",49,15592
+"Rhode Island",50,15666
+"Rhode Island",51,15602
+"Rhode Island",52,15999
+"Rhode Island",53,16134
+"Rhode Island",54,16045
+"Rhode Island",55,15722
+"Rhode Island",56,15923
+"Rhode Island",57,15642
+"Rhode Island",58,15212
+"Rhode Island",59,14910
+"Rhode Island",60,14150
+"Rhode Island",61,13578
+"Rhode Island",62,12943
+"Rhode Island",63,12286
+"Rhode Island",64,11991
+"Rhode Island",65,11605
+"Rhode Island",66,11152
+"Rhode Island",67,12319
+"Rhode Island",68,8886
+"Rhode Island",69,8671
+"Rhode Island",70,8329
+"Rhode Island",71,8682
+"Rhode Island",72,7307
+"Rhode Island",73,6553
+"Rhode Island",74,6147
+"Rhode Island",75,5816
+"Rhode Island",76,5609
+"Rhode Island",77,5279
+"Rhode Island",78,5036
+"Rhode Island",79,4863
+"Rhode Island",80,4483
+"Rhode Island",81,4541
+"Rhode Island",82,4194
+"Rhode Island",83,4201
+"Rhode Island",84,4165
+"Rhode Island",85,28309
+"Rhode Island",999,1051133
+"South Carolina",0,57439
+"South Carolina",1,57076
+"South Carolina",2,57999
+"South Carolina",3,58030
+"South Carolina",4,59975
+"South Carolina",5,60673
+"South Carolina",6,62456
+"South Carolina",7,63155
+"South Carolina",8,61415
+"South Carolina",9,60512
+"South Carolina",10,60375
+"South Carolina",11,59820
+"South Carolina",12,59939
+"South Carolina",13,61650
+"South Carolina",14,62829
+"South Carolina",15,61027
+"South Carolina",16,60445
+"South Carolina",17,59785
+"South Carolina",18,60771
+"South Carolina",19,63894
+"South Carolina",20,64459
+"South Carolina",21,65908
+"South Carolina",22,67515
+"South Carolina",23,69769
+"South Carolina",24,70719
+"South Carolina",25,67519
+"South Carolina",26,63730
+"South Carolina",27,60972
+"South Carolina",28,60033
+"South Carolina",29,60181
+"South Carolina",30,59089
+"South Carolina",31,60071
+"South Carolina",32,60241
+"South Carolina",33,60013
+"South Carolina",34,61183
+"South Carolina",35,58560
+"South Carolina",36,57685
+"South Carolina",37,56768
+"South Carolina",38,54805
+"South Carolina",39,56717
+"South Carolina",40,56393
+"South Carolina",41,58398
+"South Carolina",42,61046
+"South Carolina",43,64524
+"South Carolina",44,64320
+"South Carolina",45,61507
+"South Carolina",46,59959
+"South Carolina",47,60300
+"South Carolina",48,62139
+"South Carolina",49,66113
+"South Carolina",50,67652
+"South Carolina",51,67153
+"South Carolina",52,66675
+"South Carolina",53,67854
+"South Carolina",54,67934
+"South Carolina",55,65928
+"South Carolina",56,66588
+"South Carolina",57,66266
+"South Carolina",58,64311
+"South Carolina",59,64543
+"South Carolina",60,62957
+"South Carolina",61,61510
+"South Carolina",62,60229
+"South Carolina",63,59484
+"South Carolina",64,59361
+"South Carolina",65,58430
+"South Carolina",66,59228
+"South Carolina",67,61528
+"South Carolina",68,45962
+"South Carolina",69,45631
+"South Carolina",70,44157
+"South Carolina",71,44573
+"South Carolina",72,38728
+"South Carolina",73,35205
+"South Carolina",74,32729
+"South Carolina",75,29649
+"South Carolina",76,28012
+"South Carolina",77,25295
+"South Carolina",78,24016
+"South Carolina",79,22744
+"South Carolina",80,19942
+"South Carolina",81,18742
+"South Carolina",82,17146
+"South Carolina",83,15568
+"South Carolina",84,14196
+"South Carolina",85,80384
+"South Carolina",999,4790211
+"South Dakota",0,12313
+"South Dakota",1,12291
+"South Dakota",2,12034
+"South Dakota",3,12127
+"South Dakota",4,11845
+"South Dakota",5,11900
+"South Dakota",6,12257
+"South Dakota",7,12247
+"South Dakota",8,11960
+"South Dakota",9,11784
+"South Dakota",10,11601
+"South Dakota",11,11190
+"South Dakota",12,10874
+"South Dakota",13,10958
+"South Dakota",14,11184
+"South Dakota",15,11294
+"South Dakota",16,11215
+"South Dakota",17,11333
+"South Dakota",18,11267
+"South Dakota",19,12583
+"South Dakota",20,12346
+"South Dakota",21,12484
+"South Dakota",22,12848
+"South Dakota",23,11797
+"South Dakota",24,11139
+"South Dakota",25,10792
+"South Dakota",26,10990
+"South Dakota",27,10986
+"South Dakota",28,10872
+"South Dakota",29,11361
+"South Dakota",30,11078
+"South Dakota",31,11055
+"South Dakota",32,11142
+"South Dakota",33,11074
+"South Dakota",34,11158
+"South Dakota",35,10254
+"South Dakota",36,9889
+"South Dakota",37,9697
+"South Dakota",38,9391
+"South Dakota",39,9299
+"South Dakota",40,8829
+"South Dakota",41,8877
+"South Dakota",42,9260
+"South Dakota",43,9730
+"South Dakota",44,9754
+"South Dakota",45,9372
+"South Dakota",46,9240
+"South Dakota",47,9533
+"South Dakota",48,9689
+"South Dakota",49,10481
+"South Dakota",50,11225
+"South Dakota",51,11524
+"South Dakota",52,11721
+"South Dakota",53,12204
+"South Dakota",54,12258
+"South Dakota",55,11846
+"South Dakota",56,11873
+"South Dakota",57,11804
+"South Dakota",58,11649
+"South Dakota",59,11583
+"South Dakota",60,11370
+"South Dakota",61,10832
+"South Dakota",62,10691
+"South Dakota",63,10324
+"South Dakota",64,9810
+"South Dakota",65,9378
+"South Dakota",66,9048
+"South Dakota",67,8833
+"South Dakota",68,6623
+"South Dakota",69,6591
+"South Dakota",70,6453
+"South Dakota",71,6614
+"South Dakota",72,5623
+"South Dakota",73,5150
+"South Dakota",74,5035
+"South Dakota",75,4757
+"South Dakota",76,4528
+"South Dakota",77,4443
+"South Dakota",78,4392
+"South Dakota",79,4089
+"South Dakota",80,3789
+"South Dakota",81,3685
+"South Dakota",82,3604
+"South Dakota",83,3427
+"South Dakota",84,3290
+"South Dakota",85,20871
+"South Dakota",999,849611
+"Tennessee",0,79506
+"Tennessee",1,79722
+"Tennessee",2,80822
+"Tennessee",3,79294
+"Tennessee",4,81087
+"Tennessee",5,81504
+"Tennessee",6,84792
+"Tennessee",7,84590
+"Tennessee",8,83965
+"Tennessee",9,82835
+"Tennessee",10,83586
+"Tennessee",11,83253
+"Tennessee",12,83393
+"Tennessee",13,85217
+"Tennessee",14,86681
+"Tennessee",15,85414
+"Tennessee",16,84884
+"Tennessee",17,83981
+"Tennessee",18,82077
+"Tennessee",19,82577
+"Tennessee",20,86141
+"Tennessee",21,88254
+"Tennessee",22,93090
+"Tennessee",23,97719
+"Tennessee",24,95296
+"Tennessee",25,90062
+"Tennessee",26,85905
+"Tennessee",27,83059
+"Tennessee",28,83423
+"Tennessee",29,84388
+"Tennessee",30,81954
+"Tennessee",31,84740
+"Tennessee",32,84421
+"Tennessee",33,84785
+"Tennessee",34,86560
+"Tennessee",35,82404
+"Tennessee",36,81329
+"Tennessee",37,80442
+"Tennessee",38,77663
+"Tennessee",39,81430
+"Tennessee",40,80119
+"Tennessee",41,82230
+"Tennessee",42,86233
+"Tennessee",43,91803
+"Tennessee",44,91826
+"Tennessee",45,86095
+"Tennessee",46,83052
+"Tennessee",47,83852
+"Tennessee",48,85992
+"Tennessee",49,91859
+"Tennessee",50,93463
+"Tennessee",51,92828
+"Tennessee",52,92133
+"Tennessee",53,92726
+"Tennessee",54,93400
+"Tennessee",55,90948
+"Tennessee",56,90514
+"Tennessee",57,90752
+"Tennessee",58,87612
+"Tennessee",59,87007
+"Tennessee",60,84951
+"Tennessee",61,80795
+"Tennessee",62,78246
+"Tennessee",63,76324
+"Tennessee",64,75019
+"Tennessee",65,74807
+"Tennessee",66,74548
+"Tennessee",67,77971
+"Tennessee",68,56412
+"Tennessee",69,56504
+"Tennessee",70,55050
+"Tennessee",71,55977
+"Tennessee",72,48658
+"Tennessee",73,44389
+"Tennessee",74,41982
+"Tennessee",75,39083
+"Tennessee",76,36910
+"Tennessee",77,33040
+"Tennessee",78,32068
+"Tennessee",79,30102
+"Tennessee",80,26499
+"Tennessee",81,25105
+"Tennessee",82,23569
+"Tennessee",83,21553
+"Tennessee",84,20333
+"Tennessee",85,111140
+"Tennessee",999,6527724
+"Texas",0,387632
+"Texas",1,389728
+"Texas",2,387232
+"Texas",3,394377
+"Texas",4,397244
+"Texas",5,395842
+"Texas",6,406018
+"Texas",7,404886
+"Texas",8,402292
+"Texas",9,401808
+"Texas",10,401115
+"Texas",11,396355
+"Texas",12,393698
+"Texas",13,398765
+"Texas",14,400638
+"Texas",15,389146
+"Texas",16,384697
+"Texas",17,384057
+"Texas",18,370589
+"Texas",19,367740
+"Texas",20,373679
+"Texas",21,379804
+"Texas",22,399039
+"Texas",23,406343
+"Texas",24,405007
+"Texas",25,392094
+"Texas",26,386483
+"Texas",27,384587
+"Texas",28,387271
+"Texas",29,390032
+"Texas",30,380823
+"Texas",31,389627
+"Texas",32,388740
+"Texas",33,387440
+"Texas",34,390961
+"Texas",35,366194
+"Texas",36,359153
+"Texas",37,358087
+"Texas",38,352753
+"Texas",39,359492
+"Texas",40,350408
+"Texas",41,353488
+"Texas",42,363827
+"Texas",43,374862
+"Texas",44,371677
+"Texas",45,348608
+"Texas",46,338089
+"Texas",47,331920
+"Texas",48,333973
+"Texas",49,349760
+"Texas",50,353713
+"Texas",51,354240
+"Texas",52,350991
+"Texas",53,351489
+"Texas",54,352821
+"Texas",55,337829
+"Texas",56,332242
+"Texas",57,327045
+"Texas",58,313801
+"Texas",59,307984
+"Texas",60,292596
+"Texas",61,280298
+"Texas",62,265530
+"Texas",63,255927
+"Texas",64,248595
+"Texas",65,238944
+"Texas",66,235055
+"Texas",67,240258
+"Texas",68,181980
+"Texas",69,179610
+"Texas",70,173267
+"Texas",71,169415
+"Texas",72,148143
+"Texas",73,137960
+"Texas",74,128869
+"Texas",75,118910
+"Texas",76,113329
+"Texas",77,103861
+"Texas",78,98965
+"Texas",79,95107
+"Texas",80,84996
+"Texas",81,79588
+"Texas",82,74472
+"Texas",83,69237
+"Texas",84,65613
+"Texas",85,361502
+"Texas",999,26832262
+"Utah",0,50629
+"Utah",1,50858
+"Utah",2,49147
+"Utah",3,50373
+"Utah",4,51124
+"Utah",5,52285
+"Utah",6,53101
+"Utah",7,52876
+"Utah",8,52082
+"Utah",9,51852
+"Utah",10,51206
+"Utah",11,50689
+"Utah",12,48996
+"Utah",13,49110
+"Utah",14,49158
+"Utah",15,47568
+"Utah",16,46830
+"Utah",17,46231
+"Utah",18,43796
+"Utah",19,41907
+"Utah",20,42898
+"Utah",21,46145
+"Utah",22,51835
+"Utah",23,55732
+"Utah",24,50049
+"Utah",25,45912
+"Utah",26,42273
+"Utah",27,39894
+"Utah",28,41026
+"Utah",29,43465
+"Utah",30,43143
+"Utah",31,44951
+"Utah",32,45679
+"Utah",33,45676
+"Utah",34,46320
+"Utah",35,44414
+"Utah",36,43618
+"Utah",37,42832
+"Utah",38,39945
+"Utah",39,38596
+"Utah",40,35963
+"Utah",41,35005
+"Utah",42,34778
+"Utah",43,35321
+"Utah",44,34394
+"Utah",45,31753
+"Utah",46,30428
+"Utah",47,29844
+"Utah",48,29008
+"Utah",49,29559
+"Utah",50,30317
+"Utah",51,31170
+"Utah",52,31293
+"Utah",53,31384
+"Utah",54,31405
+"Utah",55,30489
+"Utah",56,30397
+"Utah",57,30298
+"Utah",58,29204
+"Utah",59,28751
+"Utah",60,27842
+"Utah",61,26810
+"Utah",62,25312
+"Utah",63,24099
+"Utah",64,23333
+"Utah",65,22528
+"Utah",66,21890
+"Utah",67,22363
+"Utah",68,16441
+"Utah",69,16443
+"Utah",70,16739
+"Utah",71,16583
+"Utah",72,14077
+"Utah",73,13011
+"Utah",74,12325
+"Utah",75,11388
+"Utah",76,10990
+"Utah",77,10110
+"Utah",78,9705
+"Utah",79,9223
+"Utah",80,8237
+"Utah",81,7836
+"Utah",82,7327
+"Utah",83,6875
+"Utah",84,6411
+"Utah",85,34758
+"Utah",999,2937638
+"Vermont",0,6023
+"Vermont",1,6053
+"Vermont",2,6171
+"Vermont",3,6165
+"Vermont",4,6005
+"Vermont",5,6190
+"Vermont",6,6511
+"Vermont",7,6770
+"Vermont",8,6607
+"Vermont",9,6804
+"Vermont",10,6881
+"Vermont",11,7056
+"Vermont",12,6956
+"Vermont",13,7048
+"Vermont",14,7440
+"Vermont",15,7470
+"Vermont",16,7659
+"Vermont",17,7777
+"Vermont",18,9613
+"Vermont",19,11558
+"Vermont",20,11161
+"Vermont",21,10624
+"Vermont",22,9382
+"Vermont",23,7979
+"Vermont",24,7167
+"Vermont",25,6892
+"Vermont",26,7230
+"Vermont",27,7165
+"Vermont",28,7014
+"Vermont",29,7285
+"Vermont",30,7091
+"Vermont",31,7191
+"Vermont",32,7171
+"Vermont",33,7201
+"Vermont",34,7378
+"Vermont",35,6966
+"Vermont",36,6842
+"Vermont",37,6787
+"Vermont",38,6535
+"Vermont",39,6969
+"Vermont",40,6708
+"Vermont",41,6842
+"Vermont",42,7271
+"Vermont",43,8071
+"Vermont",44,8401
+"Vermont",45,8077
+"Vermont",46,7900
+"Vermont",47,8282
+"Vermont",48,8562
+"Vermont",49,9096
+"Vermont",50,9484
+"Vermont",51,9756
+"Vermont",52,9856
+"Vermont",53,10294
+"Vermont",54,10204
+"Vermont",55,10195
+"Vermont",56,10357
+"Vermont",57,10233
+"Vermont",58,10004
+"Vermont",59,9949
+"Vermont",60,9673
+"Vermont",61,9383
+"Vermont",62,9106
+"Vermont",63,8876
+"Vermont",64,8434
+"Vermont",65,8275
+"Vermont",66,8148
+"Vermont",67,8402
+"Vermont",68,5938
+"Vermont",69,6065
+"Vermont",70,5806
+"Vermont",71,6054
+"Vermont",72,4922
+"Vermont",73,4574
+"Vermont",74,4133
+"Vermont",75,3843
+"Vermont",76,3697
+"Vermont",77,3326
+"Vermont",78,3157
+"Vermont",79,3025
+"Vermont",80,2841
+"Vermont",81,2710
+"Vermont",82,2527
+"Vermont",83,2360
+"Vermont",84,2289
+"Vermont",85,14107
+"Vermont",999,626000
+"Virginia",0,103122
+"Virginia",1,103214
+"Virginia",2,103381
+"Virginia",3,103250
+"Virginia",4,101926
+"Virginia",5,101142
+"Virginia",6,105010
+"Virginia",7,104877
+"Virginia",8,104259
+"Virginia",9,104472
+"Virginia",10,104431
+"Virginia",11,103666
+"Virginia",12,102897
+"Virginia",13,105004
+"Virginia",14,106230
+"Virginia",15,103976
+"Virginia",16,103735
+"Virginia",17,104509
+"Virginia",18,108512
+"Virginia",19,111951
+"Virginia",20,113407
+"Virginia",21,116432
+"Virginia",22,116143
+"Virginia",23,115418
+"Virginia",24,116276
+"Virginia",25,113920
+"Virginia",26,112314
+"Virginia",27,113040
+"Virginia",28,113831
+"Virginia",29,113842
+"Virginia",30,110469
+"Virginia",31,112367
+"Virginia",32,113407
+"Virginia",33,112255
+"Virginia",34,113678
+"Virginia",35,107387
+"Virginia",36,104483
+"Virginia",37,103390
+"Virginia",38,99974
+"Virginia",39,103046
+"Virginia",40,100378
+"Virginia",41,102673
+"Virginia",42,108658
+"Virginia",43,114731
+"Virginia",44,115605
+"Virginia",45,110738
+"Virginia",46,109076
+"Virginia",47,109552
+"Virginia",48,112357
+"Virginia",49,119878
+"Virginia",50,122710
+"Virginia",51,121901
+"Virginia",52,120185
+"Virginia",53,120923
+"Virginia",54,120917
+"Virginia",55,117136
+"Virginia",56,115973
+"Virginia",57,113740
+"Virginia",58,109336
+"Virginia",59,107531
+"Virginia",60,103116
+"Virginia",61,99072
+"Virginia",62,93877
+"Virginia",63,91088
+"Virginia",64,88971
+"Virginia",65,87629
+"Virginia",66,86635
+"Virginia",67,90984
+"Virginia",68,66445
+"Virginia",69,65138
+"Virginia",70,63459
+"Virginia",71,64840
+"Virginia",72,55632
+"Virginia",73,50497
+"Virginia",74,47623
+"Virginia",75,44091
+"Virginia",76,41786
+"Virginia",77,38180
+"Virginia",78,35715
+"Virginia",79,34044
+"Virginia",80,30233
+"Virginia",81,29134
+"Virginia",82,27080
+"Virginia",83,25075
+"Virginia",84,23826
+"Virginia",85,138840
+"Virginia",999,8211651
+"Washington",0,88662
+"Washington",1,89670
+"Washington",2,89089
+"Washington",3,89847
+"Washington",4,89302
+"Washington",5,89857
+"Washington",6,91645
+"Washington",7,90943
+"Washington",8,88953
+"Washington",9,88262
+"Washington",10,87813
+"Washington",11,86762
+"Washington",12,85982
+"Washington",13,88187
+"Washington",14,89340
+"Washington",15,88787
+"Washington",16,89644
+"Washington",17,89976
+"Washington",18,86207
+"Washington",19,84057
+"Washington",20,86931
+"Washington",21,89901
+"Washington",22,96907
+"Washington",23,103336
+"Washington",24,104282
+"Washington",25,101723
+"Washington",26,99833
+"Washington",27,98211
+"Washington",28,99124
+"Washington",29,100950
+"Washington",30,98160
+"Washington",31,100048
+"Washington",32,100495
+"Washington",33,99291
+"Washington",34,99990
+"Washington",35,93929
+"Washington",36,91202
+"Washington",37,90597
+"Washington",38,87769
+"Washington",39,89305
+"Washington",40,85758
+"Washington",41,85725
+"Washington",42,89384
+"Washington",43,96143
+"Washington",44,98492
+"Washington",45,93350
+"Washington",46,89369
+"Washington",47,87723
+"Washington",48,88133
+"Washington",49,93267
+"Washington",50,96390
+"Washington",51,97855
+"Washington",52,97833
+"Washington",53,99705
+"Washington",54,100044
+"Washington",55,97537
+"Washington",56,97471
+"Washington",57,97420
+"Washington",58,94931
+"Washington",59,94812
+"Washington",60,92253
+"Washington",61,89781
+"Washington",62,85039
+"Washington",63,82533
+"Washington",64,79931
+"Washington",65,77486
+"Washington",66,76722
+"Washington",67,79512
+"Washington",68,58479
+"Washington",69,57588
+"Washington",70,55898
+"Washington",71,55413
+"Washington",72,47348
+"Washington",73,42468
+"Washington",74,39405
+"Washington",75,36655
+"Washington",76,34773
+"Washington",77,31674
+"Washington",78,29404
+"Washington",79,27735
+"Washington",80,25203
+"Washington",81,23903
+"Washington",82,22497
+"Washington",83,21530
+"Washington",84,20374
+"Washington",85,128688
+"Washington",999,7008603
+"West Virginia",0,20347
+"West Virginia",1,20610
+"West Virginia",2,20689
+"West Virginia",3,20568
+"West Virginia",4,20271
+"West Virginia",5,20347
+"West Virginia",6,21271
+"West Virginia",7,21222
+"West Virginia",8,20994
+"West Virginia",9,21037
+"West Virginia",10,21135
+"West Virginia",11,21208
+"West Virginia",12,21215
+"West Virginia",13,21562
+"West Virginia",14,22243
+"West Virginia",15,21775
+"West Virginia",16,21845
+"West Virginia",17,21808
+"West Virginia",18,22484
+"West Virginia",19,23237
+"West Virginia",20,23840
+"West Virginia",21,24540
+"West Virginia",22,25234
+"West Virginia",23,25775
+"West Virginia",24,25237
+"West Virginia",25,22920
+"West Virginia",26,21535
+"West Virginia",27,21031
+"West Virginia",28,21112
+"West Virginia",29,21037
+"West Virginia",30,21060
+"West Virginia",31,21844
+"West Virginia",32,21999
+"West Virginia",33,22250
+"West Virginia",34,23647
+"West Virginia",35,22402
+"West Virginia",36,22480
+"West Virginia",37,22121
+"West Virginia",38,21463
+"West Virginia",39,22656
+"West Virginia",40,21804
+"West Virginia",41,22626
+"West Virginia",42,23949
+"West Virginia",43,24842
+"West Virginia",44,25003
+"West Virginia",45,23557
+"West Virginia",46,23286
+"West Virginia",47,23401
+"West Virginia",48,23888
+"West Virginia",49,25519
+"West Virginia",50,25870
+"West Virginia",51,25804
+"West Virginia",52,26076
+"West Virginia",53,26796
+"West Virginia",54,27509
+"West Virginia",55,27490
+"West Virginia",56,28314
+"West Virginia",57,28181
+"West Virginia",58,27301
+"West Virginia",59,27792
+"West Virginia",60,27093
+"West Virginia",61,26773
+"West Virginia",62,26278
+"West Virginia",63,25767
+"West Virginia",64,25482
+"West Virginia",65,25427
+"West Virginia",66,24510
+"West Virginia",67,25481
+"West Virginia",68,17984
+"West Virginia",69,17926
+"West Virginia",70,17204
+"West Virginia",71,18076
+"West Virginia",72,15789
+"West Virginia",73,14668
+"West Virginia",74,13699
+"West Virginia",75,13251
+"West Virginia",76,12775
+"West Virginia",77,11550
+"West Virginia",78,10876
+"West Virginia",79,10444
+"West Virginia",80,8911
+"West Virginia",81,8483
+"West Virginia",82,7984
+"West Virginia",83,7598
+"West Virginia",84,7241
+"West Virginia",85,38735
+"West Virginia",999,1849064
+"Wisconsin",0,66880
+"Wisconsin",1,67497
+"Wisconsin",2,68626
+"Wisconsin",3,68738
+"Wisconsin",4,69627
+"Wisconsin",5,70551
+"Wisconsin",6,72533
+"Wisconsin",7,73585
+"Wisconsin",8,73195
+"Wisconsin",9,72939
+"Wisconsin",10,74081
+"Wisconsin",11,73043
+"Wisconsin",12,73086
+"Wisconsin",13,74551
+"Wisconsin",14,76212
+"Wisconsin",15,75123
+"Wisconsin",16,74928
+"Wisconsin",17,74993
+"Wisconsin",18,75724
+"Wisconsin",19,81945
+"Wisconsin",20,83498
+"Wisconsin",21,83992
+"Wisconsin",22,85374
+"Wisconsin",23,78582
+"Wisconsin",24,73608
+"Wisconsin",25,70110
+"Wisconsin",26,69148
+"Wisconsin",27,69685
+"Wisconsin",28,72777
+"Wisconsin",29,74928
+"Wisconsin",30,72668
+"Wisconsin",31,74292
+"Wisconsin",32,74674
+"Wisconsin",33,74657
+"Wisconsin",34,76246
+"Wisconsin",35,71120
+"Wisconsin",36,69210
+"Wisconsin",37,67876
+"Wisconsin",38,65534
+"Wisconsin",39,67299
+"Wisconsin",40,64473
+"Wisconsin",41,65085
+"Wisconsin",42,68786
+"Wisconsin",43,74696
+"Wisconsin",44,75857
+"Wisconsin",45,73164
+"Wisconsin",46,72819
+"Wisconsin",47,75205
+"Wisconsin",48,77317
+"Wisconsin",49,82310
+"Wisconsin",50,84477
+"Wisconsin",51,85640
+"Wisconsin",52,86966
+"Wisconsin",53,89148
+"Wisconsin",54,89091
+"Wisconsin",55,86614
+"Wisconsin",56,86261
+"Wisconsin",57,84321
+"Wisconsin",58,80987
+"Wisconsin",59,81031
+"Wisconsin",60,77686
+"Wisconsin",61,74686
+"Wisconsin",62,72598
+"Wisconsin",63,69569
+"Wisconsin",64,66590
+"Wisconsin",65,63825
+"Wisconsin",66,61506
+"Wisconsin",67,63905
+"Wisconsin",68,46635
+"Wisconsin",69,45887
+"Wisconsin",70,44705
+"Wisconsin",71,46525
+"Wisconsin",72,40463
+"Wisconsin",73,36548
+"Wisconsin",74,34233
+"Wisconsin",75,33099
+"Wisconsin",76,31866
+"Wisconsin",77,29642
+"Wisconsin",78,28419
+"Wisconsin",79,26896
+"Wisconsin",80,24017
+"Wisconsin",81,23596
+"Wisconsin",82,22805
+"Wisconsin",83,22069
+"Wisconsin",84,21131
+"Wisconsin",85,128096
+"Wisconsin",999,5754380
+"Wyoming",0,7614
+"Wyoming",1,7608
+"Wyoming",2,7506
+"Wyoming",3,7642
+"Wyoming",4,7801
+"Wyoming",5,7984
+"Wyoming",6,8250
+"Wyoming",7,8262
+"Wyoming",8,8018
+"Wyoming",9,7732
+"Wyoming",10,7627
+"Wyoming",11,7486
+"Wyoming",12,7288
+"Wyoming",13,7299
+"Wyoming",14,7400
+"Wyoming",15,7637
+"Wyoming",16,7748
+"Wyoming",17,7421
+"Wyoming",18,6971
+"Wyoming",19,7751
+"Wyoming",20,7792
+"Wyoming",21,7891
+"Wyoming",22,8406
+"Wyoming",23,8735
+"Wyoming",24,8834
+"Wyoming",25,8433
+"Wyoming",26,7892
+"Wyoming",27,7936
+"Wyoming",28,8066
+"Wyoming",29,8286
+"Wyoming",30,8236
+"Wyoming",31,8114
+"Wyoming",32,8157
+"Wyoming",33,8186
+"Wyoming",34,8040
+"Wyoming",35,7706
+"Wyoming",36,7244
+"Wyoming",37,7079
+"Wyoming",38,6670
+"Wyoming",39,7015
+"Wyoming",40,6488
+"Wyoming",41,6500
+"Wyoming",42,6490
+"Wyoming",43,7068
+"Wyoming",44,7072
+"Wyoming",45,6498
+"Wyoming",46,6335
+"Wyoming",47,6358
+"Wyoming",48,6535
+"Wyoming",49,6982
+"Wyoming",50,7559
+"Wyoming",51,7687
+"Wyoming",52,7985
+"Wyoming",53,8546
+"Wyoming",54,8724
+"Wyoming",55,8465
+"Wyoming",56,8571
+"Wyoming",57,8811
+"Wyoming",58,8602
+"Wyoming",59,8539
+"Wyoming",60,8246
+"Wyoming",61,7926
+"Wyoming",62,7525
+"Wyoming",63,7227
+"Wyoming",64,6894
+"Wyoming",65,6757
+"Wyoming",66,6324
+"Wyoming",67,6403
+"Wyoming",68,4621
+"Wyoming",69,4607
+"Wyoming",70,4426
+"Wyoming",71,4503
+"Wyoming",72,3870
+"Wyoming",73,3495
+"Wyoming",74,3376
+"Wyoming",75,3062
+"Wyoming",76,2935
+"Wyoming",77,2703
+"Wyoming",78,2457
+"Wyoming",79,2341
+"Wyoming",80,2168
+"Wyoming",81,1980
+"Wyoming",82,1915
+"Wyoming",83,1887
+"Wyoming",84,1764
+"Wyoming",85,10047
+"Wyoming",999,581037

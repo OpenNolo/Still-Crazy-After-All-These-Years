@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<html>
+
+<head>
+
+  <!-- CSS -->
+  <link href="/normalize.css" rel="stylesheet">
+  <link href="css/display.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+
+  <!-- External Libraries -->
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/queue.v1.min.js"></script>
+  <script src="http://underscorejs.org/underscore-min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
+  <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+
+
+
+  <!-- JavaScripts files -->
+  <script src="js/data.js"></script>
+  <script src="js/layout.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/worldmap.js"></script>
+  <script src="js/maptoolbox.js"></script>
+  <script src="js/maplist.js"></script>
+  <script src="js/worldmaplist.js"></script>
+  <script src="js/granularitytoolbox.js"></script>
+  <script src="js/column.js"></script>
+  <script src="js/barchart.js"></script>
+  <script src="js/piechart.js"></script>
+  <script src="js/eventbox.js"></script>
+  <script src="js/comparebox.js"></script>
+
+</head>
+
+
+<body>
+
+  <div id='main'>
+    <div id='lefttoolbox'>
+
+      <div id='mapbox'></div>
+      <div id='maptoolbox'></div>
+      <div id='granularitytoolbox'></div>
+
+    </div>
+
+    <div id='graphbox'></div>
+
+    <div id='rigthtoolbox'>
+
+      <div id='eventbox'></div>
+      <div id='comparebox'></div>
+
+    </div>
+
+  </div>
+
+
+  <script>
+
+    var layout;
+
+    function initLayout() {
+
+      layout = new Layout(d3.select("body"), window.innerWidth, window.innerHeight);
+
+    }
+
+
+    (function () {
+
+      db.loadData(function(){
+
+        initLayout();
+      });
+
+    })();
+
+
+
+  </script>
+
+
+</body>
+
+
+</html>
